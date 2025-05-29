@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 814ccc0b27d0f0949a43c269b5b72f2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2225253165503059714
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_0
+  - first:
+      213: -2838639200448748122
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_1
+  - first:
+      213: -5723669568893762065
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_2
+  - first:
+      213: 4539446581264559777
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_3
+  - first:
+      213: 7634507167101207693
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_4
+  - first:
+      213: 5404261158920825298
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_5
+  - first:
+      213: 7165919883643895449
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_6
+  - first:
+      213: 4394163362805761630
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_7
+  - first:
+      213: 7756511558218305831
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_8
+  - first:
+      213: 5643186983990131013
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_9
+  - first:
+      213: 1838329534021434491
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_10
+  - first:
+      213: 614779374708631311
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_11
+  - first:
+      213: -1160091727510414893
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_12
+  - first:
+      213: 3657987037599295891
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_13
+  - first:
+      213: 3549582805313947209
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_14
+  - first:
+      213: 949852216285372279
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_15
+  - first:
+      213: -7449426709423960662
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_16
+  - first:
+      213: -2089693515119150190
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_17
+  - first:
+      213: -263060831093239017
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_18
+  - first:
+      213: -4115925896834566564
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_19
+  - first:
+      213: 5346103143075355733
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_20
+  - first:
+      213: -5914673397227100222
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_21
+  - first:
+      213: -1368212781717882283
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_22
+  - first:
+      213: -3996208842470799958
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_23
+  - first:
+      213: 8224292050514182848
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_24
+  - first:
+      213: -2762804631232558905
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_25
+  - first:
+      213: 8167320668578894393
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_26
+  - first:
+      213: 8418504537062168104
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_27
+  - first:
+      213: -8045443880005993585
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_28
+  - first:
+      213: 398065600828824825
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_29
+  - first:
+      213: 6972593139948204381
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_30
+  - first:
+      213: 4565357943590972755
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_31
+  - first:
+      213: -1926585801238819692
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_32
+  - first:
+      213: 1913666110070736961
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_33
+  - first:
+      213: -2456703505854709078
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_34
+  - first:
+      213: -6146168169729487726
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_35
+  - first:
+      213: 280142957029433261
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_36
+  - first:
+      213: -8838922994725800465
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_37
+  - first:
+      213: -2538180643289909247
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_38
+  - first:
+      213: 1772688443453672511
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_39
+  - first:
+      213: -6506325507280794942
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_40
+  - first:
+      213: 7818466585770074828
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_41
+  - first:
+      213: 5736898566474718078
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_42
+  - first:
+      213: -8614320070199063468
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_43
+  - first:
+      213: 8207532010819231879
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_44
+  - first:
+      213: 5251056303604732281
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_45
+  - first:
+      213: 2022569145456338262
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_46
+  - first:
+      213: -6525584359800860662
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_47
+  - first:
+      213: -8091699510609125860
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_48
+  - first:
+      213: 6975800433377763385
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_49
+  - first:
+      213: -4515556053489060263
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_50
+  - first:
+      213: 8406351381685527792
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_51
+  - first:
+      213: -4975308771288678902
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_52
+  - first:
+      213: 7935900298966788072
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_53
+  - first:
+      213: -6287071869211816950
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_54
+  - first:
+      213: -2263327765618102482
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_55
+  - first:
+      213: 3879505755475732606
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_56
+  - first:
+      213: -813537922610180338
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_57
+  - first:
+      213: 1632492593954344682
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_58
+  - first:
+      213: -1818066498951214358
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_59
+  - first:
+      213: -5176636264852735575
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_60
+  - first:
+      213: 5369017244516579983
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_61
+  - first:
+      213: -3044226707933318766
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_62
+  - first:
+      213: 6620742367864919007
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_63
+  - first:
+      213: -6733654320582609466
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_64
+  - first:
+      213: 8820460323893968639
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_65
+  - first:
+      213: -8679204754686994668
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_66
+  - first:
+      213: -6164172446928713798
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_67
+  - first:
+      213: 2651719326419049797
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_68
+  - first:
+      213: 3095698879351027379
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_69
+  - first:
+      213: 4107903934490303664
+    second: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 379
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef860ee29005e11e0800000000000000
+      internalID: -2225253165503059714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 379
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5e0cbdfa02b98d0800000000000000
+      internalID: -2838639200448748122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5cf563ad07190b0800000000000000
+      internalID: -5723669568893762065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea2295d9a5ffe30800000000000000
+      internalID: 4539446581264559777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 415
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84cd32b1d733f960800000000000000
+      internalID: 7634507167101207693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 415
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9aaea14eacffa40800000000000000
+      internalID: 5404261158920825298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 395
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb081ea26727360800000000000000
+      internalID: 7165919883643895449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 395
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56c2151c443bfc30800000000000000
+      internalID: 4394163362805761630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 395
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72150db9a2aa4ab60800000000000000
+      internalID: 7756511558218305831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549f6ddb9a0a05e40800000000000000
+      internalID: 5643186983990131013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 327
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf477a8fe038910800000000000000
+      internalID: 1838329534021434491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07aeb48592288800800000000000000
+      internalID: 614779374708631311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 363
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95fd268b686efe0800000000000000
+      internalID: -1160091727510414893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 363
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399e61174d7c3c230800000000000000
+      internalID: 3657987037599295891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 363
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946829341c6a24130800000000000000
+      internalID: 3549582805313947209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9ec4ee8d8e2d00800000000000000
+      internalID: 949852216285372279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 363
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4a7460e15e9890800000000000000
+      internalID: -7449426709423960662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 363
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb2e5d1daeff2e0800000000000000
+      internalID: -2089693515119150190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 343
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135e50619b695cf0800000000000000
+      internalID: -263060831093239017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 343
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c563855343b41e6c0800000000000000
+      internalID: -4115925896834566564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 343
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c1b97db7c213a40800000000000000
+      internalID: 5346103143075355733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c763dbe1ebdaeda0800000000000000
+      internalID: -5914673397227100222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 263
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7e8069b1230de0800000000000000
+      internalID: -1368212781717882283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 263
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c0480b3d9a88c0800000000000000
+      internalID: -3996208842470799958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 299
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c287f7bb0e822270800000000000000
+      internalID: 8224292050514182848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 299
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8449b63db88a9d0800000000000000
+      internalID: -2762804631232558905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 296
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d95130e6285170800000000000000
+      internalID: 8167320668578894393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 299
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826da97f54984d470800000000000000
+      internalID: 8418504537062168104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 299
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf6efea67d85090800000000000000
+      internalID: -8045443880005993585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 299
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc54be0e86368500800000000000000
+      internalID: 398065600828824825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 299
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5130f5b480a3c060800000000000000
+      internalID: 6972593139948204381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 299
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6f348cd86b5f30800000000000000
+      internalID: 4565357943590972755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 299
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c49d7db646345e0800000000000000
+      internalID: -1926585801238819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 299
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14848752035be8a10800000000000000
+      internalID: 1913666110070736961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c2177d2908edd0800000000000000
+      internalID: -2456703505854709078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 299
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c06790d9c64baa0800000000000000
+      internalID: -6146168169729487726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 299
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf1110098443e300800000000000000
+      internalID: 280142957029433261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 299
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5365eed56d55580800000000000000
+      internalID: -8838922994725800465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 279
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108beec172296ccd0800000000000000
+      internalID: -2538180643289909247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 279
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0f794fbad99810800000000000000
+      internalID: 1772688443453672511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 279
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca07715c63e4b5a0800000000000000
+      internalID: -6506325507280794942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 211
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2261d8fe5c08c60800000000000000
+      internalID: 7818466585770074828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 211
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b5c2fc9de8d9f40800000000000000
+      internalID: 5736898566474718078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 211
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c444a6989c37880800000000000000
+      internalID: -8614320070199063468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 227
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7802783e0e207e170800000000000000
+      internalID: 8207532010819231879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 227
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9719fe703ef7fd840800000000000000
+      internalID: 5251056303604732281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 227
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6552798fbeb911c10800000000000000
+      internalID: 2022569145456338262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00993a49977075a0800000000000000
+      internalID: -6525584359800860662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 159
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed0f0ba2284bf80800000000000000
+      internalID: -8091699510609125860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9306f77e8850fc060800000000000000
+      internalID: 6975800433377763385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567b6c91b58551c0800000000000000
+      internalID: -4515556053489060263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ea7afa0c59a470800000000000000
+      internalID: 8406351381685527792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef377680724fab0800000000000000
+      internalID: -4975308771288678902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7e4d4964bf12e60800000000000000
+      internalID: 7935900298966788072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c474ef175dfb8a0800000000000000
+      internalID: -6287071869211816950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fed08836b0790e0800000000000000
+      internalID: -2263327765618102482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 123
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e63b1ee5c6d530800000000000000
+      internalID: 3879505755475732606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 123
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc287d19bb5b4f0800000000000000
+      internalID: -813537922610180338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 123
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeca196d57c7a610800000000000000
+      internalID: 1632492593954344682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea89f7d62ee4c6e0800000000000000
+      internalID: -1818066498951214358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a93c0e7eb4e828b0800000000000000
+      internalID: -5176636264852735575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a7b54dcb4928a40800000000000000
+      internalID: 5369017244516579983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 71
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b0e920fbb0c5d0800000000000000
+      internalID: -3044226707933318766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 71
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd397f9fa1a91eb50800000000000000
+      internalID: 6620742367864919007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 71
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5366562114d82a0800000000000000
+      internalID: -6733654320582609466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe70298ee1986a70800000000000000
+      internalID: 8820460323893968639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417100092454d8780800000000000000
+      internalID: -8679204754686994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7409691d5747aa0800000000000000
+      internalID: -6164172446928713798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 19
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dde3f8dacccc420800000000000000
+      internalID: 2651719326419049797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_69
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6fa43aab126fa20800000000000000
+      internalID: 3095698879351027379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - StarTropics Customs - Nav-Com ROB Colors_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 19
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc59b22dd4320930800000000000000
+      internalID: 4107903934490303664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_0: -2225253165503059714
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_1: -2838639200448748122
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_10: 1838329534021434491
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_11: 614779374708631311
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_12: -1160091727510414893
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_13: 3657987037599295891
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_14: 3549582805313947209
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_15: 949852216285372279
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_16: -7449426709423960662
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_17: -2089693515119150190
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_18: -263060831093239017
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_19: -4115925896834566564
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_2: -5723669568893762065
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_20: 5346103143075355733
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_21: -5914673397227100222
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_22: -1368212781717882283
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_23: -3996208842470799958
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_24: 8224292050514182848
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_25: -2762804631232558905
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_26: 8167320668578894393
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_27: 8418504537062168104
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_28: -8045443880005993585
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_29: 398065600828824825
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_3: 4539446581264559777
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_30: 6972593139948204381
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_31: 4565357943590972755
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_32: -1926585801238819692
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_33: 1913666110070736961
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_34: -2456703505854709078
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_35: -6146168169729487726
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_36: 280142957029433261
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_37: -8838922994725800465
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_38: -2538180643289909247
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_39: 1772688443453672511
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_4: 7634507167101207693
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_40: -6506325507280794942
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_41: 7818466585770074828
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_42: 5736898566474718078
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_43: -8614320070199063468
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_44: 8207532010819231879
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_45: 5251056303604732281
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_46: 2022569145456338262
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_47: -6525584359800860662
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_48: -8091699510609125860
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_49: 6975800433377763385
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_5: 5404261158920825298
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_50: -4515556053489060263
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_51: 8406351381685527792
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_52: -4975308771288678902
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_53: 7935900298966788072
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_54: -6287071869211816950
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_55: -2263327765618102482
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_56: 3879505755475732606
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_57: -813537922610180338
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_58: 1632492593954344682
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_59: -1818066498951214358
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_6: 7165919883643895449
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_60: -5176636264852735575
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_61: 5369017244516579983
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_62: -3044226707933318766
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_63: 6620742367864919007
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_64: -6733654320582609466
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_65: 8820460323893968639
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_66: -8679204754686994668
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_67: -6164172446928713798
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_68: 2651719326419049797
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_69: 3095698879351027379
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_7: 4394163362805761630
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_70: 4107903934490303664
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_8: 7756511558218305831
+      Custom Edited - StarTropics Customs - Nav-Com ROB Colors_9: 5643186983990131013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4457 @@
+fileFormatVersion: 2
+guid: 8024e1a77587edf48b1346126723f7e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2647527328147717419
+    second: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2cd981ce7124bd0800000000000000
+      internalID: -2647527328147717419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e9043b50172a40ad63b2691bf5940
+      internalID: -1602265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdcb49f308023418c196d5a94e67f1
+      internalID: -1554376418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded9eaad81cc7b449658081b570c869
+      internalID: -1863248322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e66ab4992ece54188f973f78092c45
+      internalID: 1813220178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d875dc048dc62f49af8018ba00fc82d
+      internalID: 1049190444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a853bfa525577b43a801c3f27ec749d
+      internalID: 173390327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1250e868fdd046a06870da392e01f
+      internalID: 1586290498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2485ddf8c64a2498961ba35aff2e7b
+      internalID: -2111211115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee74b8029f0c034584a6b9ab09712c9
+      internalID: -1353904376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182f06b6d0555d42a7121993129c760
+      internalID: -1449057826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53b67971e45dd4c9ed8207260ec97e
+      internalID: 1803449195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd77995fff52d4dad79e8a0ff0d74a
+      internalID: -1412983230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91526f5a8c0b1124a9189219ae6399e5
+      internalID: 1721920893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763786553e251af4c83cf349731f3085
+      internalID: -1813480365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9c6d0972022634fa15498a75fdc042
+      internalID: -1947038610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995930d240c22242ba36d1cd322d5a5
+      internalID: -876876997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2373c0dea3d24cb3a8f83b7854e37
+      internalID: -1728810706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0574a1e86dd6e49935e40495aa0f1c
+      internalID: -1952231438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380ceebb36e36754597ca2c4b78ca6ba
+      internalID: 115072406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac732c65f03d7d499c0c6a5b440a40f
+      internalID: 1920289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2125
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973dfae76ea9a44e922317897874bee
+      internalID: -1079300987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ad29ceea481f4d96e3f0e3d3e82fe
+      internalID: -1302241512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f85b3e893a23478e335624e2c1fd2
+      internalID: -1053728710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e882794280a166448393171461079e6
+      internalID: 1475364104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4aeb83b0844642b79e4bd5b1e704f
+      internalID: 117305166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d8def51c58a44fa8978912d84ee50
+      internalID: 1521843496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46c1f9a261ca9419b938fa9c6c7ef8
+      internalID: 1874515330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2812f6006bef4182a2f243d7bafc2
+      internalID: 2013021113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636287f6ab419b542a51c098477fc0a0
+      internalID: 1275999722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e985fcd4bed9d488617ee3c80ddd3e
+      internalID: 1991109463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_31
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d3eae9b610174b865707fa95e3dcb
+      internalID: -438304054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1997
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e916b46c4dfb49479265419a7632397
+      internalID: -357873425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a79d31ded69fc47bd1372922eaee6c
+      internalID: -1338962627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ee10a92fcc9e4dba9e71b3ba41e68
+      internalID: -880829966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac10377a03b35f546adc0a06ad6546a5
+      internalID: -768225882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646a33ffd7013e438486689075d6f26
+      internalID: 692739840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ebe8a746e973943985535dffb740ef
+      internalID: -1482864820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4b4c920987d443a8a2bbf95345bb8
+      internalID: 1126785680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737b319f85136b4d8e119a3e992e963
+      internalID: 497821936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f3ec935edc2048b3c40f3e80dc6b6
+      internalID: -1337221962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10ec704c0d1534fa16dbe2fbd71e6d
+      internalID: -1570723449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b54eed6b5d806a48b0f9d7ff1f2ab8c
+      internalID: 1005935169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcbc27e3d9e48246a7a12513e1aec2f
+      internalID: 1624909964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17489b9423a8f48a0a9136ec4eb069
+      internalID: 412274519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32361c15a3d484aa82e126e5a9afa3
+      internalID: -982177898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60674f8ee37cb68408ff9f8e4c047eaf
+      internalID: -221317964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c0b0009f0cae4690c19cc9cd9854a
+      internalID: 2090980796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ac91d0bbd9bb439eb23a6d3ae55ef
+      internalID: 1170659670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb63b7dedad014ca99dee0f1f1bc78
+      internalID: 889725970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af9dd71ac8c7d46917e9c38cdd43c4
+      internalID: -1083798196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82681c81abf2a54db6d99887bbc4a55
+      internalID: -1253284634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6272a2ce67f3df4eb852ad36d05cbb5
+      internalID: -126998676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c068b39927d6498c32f94be10fbc5
+      internalID: 1659059888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1741
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b9f5e5992fc94b8156884bc1cff83
+      internalID: 2057942735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fc855fbf7a3ea429fb8feffbc488a5
+      internalID: 1451487045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6b4a541ecfe34a9f2d3d226229ba2
+      internalID: -1501646481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943bfdcfb23d1dc4abe0e4f10318ca01
+      internalID: 1851999548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666a19daca9dc446ada744cab36f8b7
+      internalID: 1080609718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a002c15534492d4ab5eb2e5810553f2
+      internalID: -1262803017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6566042211ed9a4aa0b54c516efbadd
+      internalID: 1100253927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5888bd861bcd18b48adba6af68ce9c30
+      internalID: -1425197506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b6dfff44d9d84d98cac75f92c44cd
+      internalID: -1908243567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c67099863ae74d92a9e6b712c5f37
+      internalID: 1954489148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_64
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ffeb767a54b246ab7000f3d347b84
+      internalID: -1872963155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8892a141ae3140b66afb501504890
+      internalID: 273393084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1154b268ddde414dadeaa0cedbf7b38
+      internalID: 2072187168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c706460999413488e6b4d2c5a3753d
+      internalID: -694691847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8b6549965cbd4dae42583d32c2f13
+      internalID: 2009262830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ed441ca0285b42b2cf54ea354a5e9
+      internalID: 1146866142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1829e51f5103154db160d34e4e53d8f
+      internalID: -2080287082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93927388ec38fe34c8de57ef2aba52f0
+      internalID: -1120703131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52326ca884c58bb40ae389942946c53f
+      internalID: -382384221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_73
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61589f146f06dd440b988350f7d61112
+      internalID: 1945598055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9641432bd46148a7deb415648a26a
+      internalID: 984455920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_75
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc26467d91037240bc2acf7406fea7e
+      internalID: 1961297639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_76
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1485
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d96530b8380644af36903e79ec4e5
+      internalID: 1909631029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4eae6eaff64d4489ca041a7681352
+      internalID: -64588845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65b0a04bede1d249abee6bdd6175277
+      internalID: -744992678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917d7f1afd9a5a47b57437910f146dd
+      internalID: -215933638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138eedbb941b464693ec1b22b2bf6ed
+      internalID: 2036545224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53cf2223db751d48a7341e1aee3bc89
+      internalID: 1505315061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188653e3aedd64a4eb55941d44a73f83
+      internalID: -719496699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc4712fddc4d44da710e3a79b9c34d
+      internalID: -2081132111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_84
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2879e1d0474148951e06019ea5bc3
+      internalID: -172552067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_85
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb0ebfefca07942ac31149b38902a5
+      internalID: 1143517723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_86
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cfc8fe025e7a14eb82a2f1de57cfa4
+      internalID: 1084467798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_87
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1357
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cde6b9909e71e458800fee27105958
+      internalID: -712926728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f34acec43666f4f80a3797deb18e2a
+      internalID: -920501440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312214c8bcfe1143a1456e81c758fc9
+      internalID: -674225626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0c20541c19b5a4dba3790e7cadb5cc
+      internalID: -1067333159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adadb3854adf8bb4d910f70d6004ecc5
+      internalID: 1304134337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5451d07019d136d4bafc280f41f6b56e
+      internalID: 1107575595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e801361a2d9a654f8dfc939dd816837
+      internalID: -615194223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5361847f50bf8744972c4e7e3a71564
+      internalID: -1189888948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047030e6bba0fd46a8a7022bdff23cb
+      internalID: -620154371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_96
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b7cf032ac7f74f8c2812d8334bf26
+      internalID: -681480464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_97
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d23f66fb1b1b439f8f5ab0b5cac07
+      internalID: -2042575580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_98
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bf561f66590114287c4f51fe2769b5
+      internalID: 2069405303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72bc04c3edccf340af462b914acd8a2
+      internalID: 781865048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254bcb112942f154182219f7e72873de
+      internalID: 297296123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a9c771a10536499102d4dfcf61783
+      internalID: -1525137602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fbf5157b86fe458da1acb3be82111
+      internalID: -1251132270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa486b80e118340b0ed915d35902a3
+      internalID: -248392185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be685f4d0497095449528852bd266b84
+      internalID: -2116790192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_105
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd914359662e4947b0830e36a107433
+      internalID: 246660645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_106
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176b9de39b1f404aa4bdda4206a13dd
+      internalID: -1009564626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_107
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1101
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ddc762b292fdf46886e4013ac26708
+      internalID: 739166530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b77bd0f183db84aab5572ec5099fb6
+      internalID: 2099339009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3805705a101074aa439cc4ea75f284
+      internalID: 773901227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa68d6e3db3d04fad0392edba4b038
+      internalID: 673491419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33f92cbd035d74a9f222e4a4d75479
+      internalID: -2132515291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed349b61caabc144a277addfc182ef7
+      internalID: -1437481617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6578cd86d1db0478b646ab5a5cf964
+      internalID: 248454012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932559a7b49c04459718dd8cebee0a6
+      internalID: 1418220150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065563f6c146394a9be14c1568f9658
+      internalID: -439710074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 973
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ec8ae30f51b740905eae28fd67d90
+      internalID: -104924524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399f6fd6e3153a48bc393055c18b4d5
+      internalID: -87729955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d97244c80d86a74a8bba6dd04658603
+      internalID: -1093034203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1c0da754f6624eb9112053bd3ccec
+      internalID: -1706809802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643d6952b56c4e44b4b978c214ad5ee
+      internalID: 313095081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616e1ea55064ea419d7b92cddb21efb
+      internalID: -1584529515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a4b8aa5cefe0439b8cfd300f8f36d
+      internalID: -2077218483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43324f1850e739499cd692e55279a4a
+      internalID: 828769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75badb5d2fca91c4b9f4ac29886f49ab
+      internalID: -273345714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_125
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 845
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f15494bdbb6d48b9c1845817cd678
+      internalID: -1207835398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9ca1d3037faf448229950159c7e29
+      internalID: -1403402298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640276fc4bede094b8e45db1db0070f1
+      internalID: -1539890152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a0ccc6ececee94e890f2181d710b46
+      internalID: -1645403093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122aa1cacfb6b3f4e856b87393599443
+      internalID: 1458535374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96b59a26434dc48b88fe10f69687fc
+      internalID: 1839699303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e35b09ea62c84a85f3fd37893c551
+      internalID: 1288807018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03d91077e5cf24cba793d35f709ff1
+      internalID: -138166726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f6d68041f78748996bb9b2d5b57cb
+      internalID: 46489959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_134
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 717
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c18ec43b25c9749b0dbef962dd02d8
+      internalID: -2071476972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e26396efdfd743bebe6fcf0971322
+      internalID: -1553027938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18cf137ac9ab584c80d881472dedb08
+      internalID: -878274082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c938dd91f697043a59aea837477731
+      internalID: -1565362914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3aef1d4b75df45b1564c5db8fce06
+      internalID: 153445584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171ee70c46609e4890a127add0e29e1
+      internalID: -507359537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e7b9f94cc01d248b20591d3912f566
+      internalID: -204094733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_141
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3f4b49d2327e43875e8cd23775a0c
+      internalID: -295470801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf0880a9fe10f47b9c4e661fcb4174
+      internalID: -803889062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_143
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 589
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8843da171fad6aa438abc8cc0176bb24
+      internalID: -421428322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb54c9c69ece0d4cb63cea0953b92ae
+      internalID: 1308573805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077cdb2a2c4367b438dd528524c42dc6
+      internalID: -2019634569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ee352d9d2dfa4fa6a94ed137156ad
+      internalID: 1535754234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc3545438f459140ac48650082e18d7
+      internalID: 1275670422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e23cb4fbd111c4fad85e2b2c554742
+      internalID: -592807563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5bf04accf51324da2ee81032a8f295
+      internalID: -335012705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e867358b8a0f0744bd94cd708274ca1
+      internalID: -1372282057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc93e0880c85b74ea427ce0e5d428e9
+      internalID: -849562651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08305fd32647e4b9fa8efa2e06b684
+      internalID: 713662595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f310ded5fffe94e9bc6c1d30615ec1
+      internalID: -1685835514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 461
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fbfb2011017843a92be5f8d76f330
+      internalID: 420734757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d616e0f81f984eaa510ede4f7d432
+      internalID: -1465465589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476386484461c7a408d1af3563c22c04
+      internalID: -805117418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f980fb0079fe7c4c988bc56c9b3d1b7
+      internalID: 763744245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d80e08e5e1ac4094400528679708f
+      internalID: 39033820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_159
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8d677a44492142a40ee483e96a866
+      internalID: -792480755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b429fa84828f0b458c45f8544a18507
+      internalID: 1047991818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_161
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c640aba80ce48409ac0b015ae2dc4c
+      internalID: -203758559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61332225383c640bf559aed14f7468
+      internalID: 697447913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_163
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca5d66c2a5c4746b398ed9100e7356
+      internalID: 258116124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_164
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09637ec4f277c4f4f84078f07f743b57
+      internalID: 444579259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_165
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 333
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41471ff25ddf484c82cdbe4ef64e5e6
+      internalID: 2025095567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3466aad36de9684fba9fe2e04e817de
+      internalID: -924023380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5c37c6105f74458f5b61afc29bb97
+      internalID: 46925561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a51b841f6ec746823038db906d1af
+      internalID: 1421618562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85140ffcc0531b4db2b361258b08964
+      internalID: 122296396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4baecd01f091f4982cbccdcf4d7cad
+      internalID: -291763698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_171
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955dab5604125a4c9dac56747072711
+      internalID: -789143209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae7bc690f32144d956a42058e63f50
+      internalID: 1434818680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253aa20f48a0376498c1d5762404b482
+      internalID: 1687471121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_174
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f37d4de0a28d24bbda680acd2fbec9
+      internalID: -757408845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_175
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277072a293d4cd44a859bab5b2ead415
+      internalID: -1150637806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_176
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4712632bf2ba44bc829dd105e8ecc
+      internalID: -326268766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e58bfe6d4f8041903767d5ad533ba
+      internalID: -1349514226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a479e871777c44f83cf69d7ae0bc3c
+      internalID: -228621460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691bd1c1f399c54ca24aace5ad27282
+      internalID: -719670393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2d67bfc2358043acff47ae3222777
+      internalID: 1563047283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540014eb1d066f144a565b40673c9704
+      internalID: 1314731986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_182
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c0bb7ccc44894082846444a6c41ed
+      internalID: -1442231698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_183
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce37fa94175a94993085022d0e8f5e
+      internalID: -861949825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dca30c4387cbd4e837ec009a298530
+      internalID: 1760945590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_185
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff726bbfe637e7489c1e3e9df5bbe20
+      internalID: 150925245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_186
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c228355c8baa429b07f4770693aa7
+      internalID: 165091874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Simpsons Tapped Out - Perfect Beer Truck_187
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 77
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40ddfe32be7454ea121b185975f4e4
+      internalID: -75236552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbc9eacf254283140a3724f05bb670de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_0: -2647527328147717419
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_1: -1602265394
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_10: -1449057826
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_100: 297296123
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_101: -1525137602
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_102: -1251132270
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_103: -248392185
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_104: -2116790192
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_105: 246660645
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_106: -1009564626
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_107: 739166530
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_108: 2099339009
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_109: 773901227
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_11: 1803449195
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_110: 673491419
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_111: -2132515291
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_112: -1437481617
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_113: 248454012
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_114: 1418220150
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_115: -439710074
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_116: -104924524
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_117: -87729955
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_118: -1093034203
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_119: -1706809802
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_12: -1412983230
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_120: 313095081
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_121: -1584529515
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_122: -2077218483
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_123: 828769494
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_124: -273345714
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_125: -1207835398
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_126: -1403402298
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_127: -1539890152
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_128: -1645403093
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_129: 1458535374
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_13: 1721920893
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_130: 1839699303
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_131: 1288807018
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_132: -138166726
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_133: 46489959
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_134: -2071476972
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_135: -1553027938
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_136: -878274082
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_137: -1565362914
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_138: 153445584
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_139: -507359537
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_14: -1813480365
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_140: -204094733
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_141: -295470801
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_142: -803889062
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_143: -421428322
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_144: 1308573805
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_145: -2019634569
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_146: 1535754234
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_147: 1275670422
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_148: -592807563
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_149: -335012705
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_15: -1947038610
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_150: -1372282057
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_151: -849562651
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_152: 713662595
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_153: -1685835514
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_154: 420734757
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_155: -1465465589
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_156: -805117418
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_157: 763744245
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_158: 39033820
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_159: -792480755
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_16: -876876997
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_160: 1047991818
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_161: -203758559
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_162: 697447913
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_163: 258116124
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_164: 444579259
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_165: 2025095567
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_166: -924023380
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_167: 46925561
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_168: 1421618562
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_169: 122296396
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_17: -1728810706
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_170: -291763698
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_171: -789143209
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_172: 1434818680
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_173: 1687471121
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_174: -757408845
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_175: -1150637806
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_176: -326268766
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_177: -1349514226
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_178: -228621460
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_179: -719670393
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_18: -1952231438
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_180: 1563047283
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_181: 1314731986
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_182: -1442231698
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_183: -861949825
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_184: 1760945590
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_185: 150925245
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_186: 165091874
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_187: -75236552
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_19: 115072406
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_2: -1554376418
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_20: 1920289190
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_21: -1079300987
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_22: -1302241512
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_23: -1053728710
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_24: 1475364104
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_25: 117305166
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_26: 1521843496
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_27: 1874515330
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_28: 2013021113
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_29: 1275999722
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_3: -1863248322
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_30: 1991109463
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_31: -438304054
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_32: -357873425
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_33: -1338962627
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_34: -880829966
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_35: -768225882
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_36: 692739840
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_37: -1482864820
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_38: 1126785680
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_39: 497821936
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_4: 1813220178
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_40: -1337221962
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_41: -1570723449
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_42: 1005935169
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_43: 1624909964
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_44: 412274519
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_45: -982177898
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_46: -221317964
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_47: 2090980796
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_48: 1170659670
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_49: 889725970
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_5: 1049190444
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_50: -1083798196
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_51: -1253284634
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_52: -126998676
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_53: 1659059888
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_54: 2057942735
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_55: 1451487045
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_56: -1501646481
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_57: 1851999548
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_58: 1080609718
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_59: -1262803017
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_6: 173390327
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_60: 1100253927
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_61: -1425197506
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_62: -1908243567
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_63: 1954489148
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_64: -1872963155
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_65: 273393084
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_66: 2072187168
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_67: -694691847
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_68: 2009262830
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_69: 1146866142
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_7: 1586290498
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_70: -2080287082
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_71: -1120703131
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_72: -382384221
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_73: 1945598055
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_74: 984455920
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_75: 1961297639
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_76: 1909631029
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_77: -64588845
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_78: -744992678
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_79: -215933638
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_8: -2111211115
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_80: 2036545224
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_81: 1505315061
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_82: -719496699
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_83: -2081132111
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_84: -172552067
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_85: 1143517723
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_86: 1084467798
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_87: -712926728
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_88: -920501440
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_89: -674225626
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_9: -1353904376
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_90: -1067333159
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_91: 1304134337
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_92: 1107575595
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_93: -615194223
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_94: -1189888948
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_95: -620154371
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_96: -681480464
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_97: -2042575580
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_98: 2069405303
+      Mobile - The Simpsons Tapped Out - Perfect Beer Truck_99: 781865048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

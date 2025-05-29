@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: e08bfd17c0a9c694289fb46b6426951a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3391788574949505049
+    second: Arcade - Legend of Heroes - Chanyu_0
+  - first:
+      213: 1657499915255262804
+    second: Arcade - Legend of Heroes - Chanyu_1
+  - first:
+      213: -1491915233439429285
+    second: Arcade - Legend of Heroes - Chanyu_2
+  - first:
+      213: -1345861085983113789
+    second: Arcade - Legend of Heroes - Chanyu_3
+  - first:
+      213: -7378279772958987236
+    second: Arcade - Legend of Heroes - Chanyu_4
+  - first:
+      213: -6971115462429993292
+    second: Arcade - Legend of Heroes - Chanyu_5
+  - first:
+      213: 1327580520007494384
+    second: Arcade - Legend of Heroes - Chanyu_6
+  - first:
+      213: -8139027280778287491
+    second: Arcade - Legend of Heroes - Chanyu_7
+  - first:
+      213: -5610750168451936500
+    second: Arcade - Legend of Heroes - Chanyu_8
+  - first:
+      213: 961001833212339186
+    second: Arcade - Legend of Heroes - Chanyu_9
+  - first:
+      213: -8349806494850986185
+    second: Arcade - Legend of Heroes - Chanyu_10
+  - first:
+      213: 2680351671766255264
+    second: Arcade - Legend of Heroes - Chanyu_11
+  - first:
+      213: 1522387477109190534
+    second: Arcade - Legend of Heroes - Chanyu_12
+  - first:
+      213: -7463094750593794974
+    second: Arcade - Legend of Heroes - Chanyu_13
+  - first:
+      213: -8068976627332218470
+    second: Arcade - Legend of Heroes - Chanyu_14
+  - first:
+      213: -439418692069841223
+    second: Arcade - Legend of Heroes - Chanyu_15
+  - first:
+      213: 8830504569709098045
+    second: Arcade - Legend of Heroes - Chanyu_16
+  - first:
+      213: -5630409006642991365
+    second: Arcade - Legend of Heroes - Chanyu_17
+  - first:
+      213: -4211055107702292835
+    second: Arcade - Legend of Heroes - Chanyu_18
+  - first:
+      213: 1942726346379007056
+    second: Arcade - Legend of Heroes - Chanyu_19
+  - first:
+      213: -7239676167843595900
+    second: Arcade - Legend of Heroes - Chanyu_20
+  - first:
+      213: 1644335436097494044
+    second: Arcade - Legend of Heroes - Chanyu_21
+  - first:
+      213: -1052663218871618334
+    second: Arcade - Legend of Heroes - Chanyu_22
+  - first:
+      213: 2094349918065951345
+    second: Arcade - Legend of Heroes - Chanyu_23
+  - first:
+      213: 4246029508065319907
+    second: Arcade - Legend of Heroes - Chanyu_24
+  - first:
+      213: -6446994875931519002
+    second: Arcade - Legend of Heroes - Chanyu_25
+  - first:
+      213: -7986132980092720474
+    second: Arcade - Legend of Heroes - Chanyu_26
+  - first:
+      213: 2361571124467698932
+    second: Arcade - Legend of Heroes - Chanyu_27
+  - first:
+      213: -6856404532098231225
+    second: Arcade - Legend of Heroes - Chanyu_28
+  - first:
+      213: 4406468747784733928
+    second: Arcade - Legend of Heroes - Chanyu_29
+  - first:
+      213: -6719802021002032141
+    second: Arcade - Legend of Heroes - Chanyu_30
+  - first:
+      213: 7568242453891321811
+    second: Arcade - Legend of Heroes - Chanyu_31
+  - first:
+      213: 101676666887655222
+    second: Arcade - Legend of Heroes - Chanyu_32
+  - first:
+      213: 7472096118052215185
+    second: Arcade - Legend of Heroes - Chanyu_33
+  - first:
+      213: -6051897397343840565
+    second: Arcade - Legend of Heroes - Chanyu_34
+  - first:
+      213: 8969265548460125625
+    second: Arcade - Legend of Heroes - Chanyu_35
+  - first:
+      213: -495366909901510341
+    second: Arcade - Legend of Heroes - Chanyu_36
+  - first:
+      213: -7645488843428519170
+    second: Arcade - Legend of Heroes - Chanyu_37
+  - first:
+      213: 6909749658535257736
+    second: Arcade - Legend of Heroes - Chanyu_38
+  - first:
+      213: -1227748870043774061
+    second: Arcade - Legend of Heroes - Chanyu_39
+  - first:
+      213: -4948293773129725873
+    second: Arcade - Legend of Heroes - Chanyu_40
+  - first:
+      213: -3290147803961058712
+    second: Arcade - Legend of Heroes - Chanyu_41
+  - first:
+      213: 7878620828010990862
+    second: Arcade - Legend of Heroes - Chanyu_42
+  - first:
+      213: 1566158116181876099
+    second: Arcade - Legend of Heroes - Chanyu_43
+  - first:
+      213: -7093318738474898992
+    second: Arcade - Legend of Heroes - Chanyu_44
+  - first:
+      213: -2764246162979327595
+    second: Arcade - Legend of Heroes - Chanyu_45
+  - first:
+      213: 6521015714225651513
+    second: Arcade - Legend of Heroes - Chanyu_46
+  - first:
+      213: 6935217961605459615
+    second: Arcade - Legend of Heroes - Chanyu_47
+  - first:
+      213: 4084987534674066648
+    second: Arcade - Legend of Heroes - Chanyu_48
+  - first:
+      213: 4801577939005756260
+    second: Arcade - Legend of Heroes - Chanyu_49
+  - first:
+      213: -4860429031655282527
+    second: Arcade - Legend of Heroes - Chanyu_50
+  - first:
+      213: 477372048422794041
+    second: Arcade - Legend of Heroes - Chanyu_51
+  - first:
+      213: 7117169616862791307
+    second: Arcade - Legend of Heroes - Chanyu_52
+  - first:
+      213: -1963313656635817718
+    second: Arcade - Legend of Heroes - Chanyu_53
+  - first:
+      213: 8049511564665932623
+    second: Arcade - Legend of Heroes - Chanyu_54
+  - first:
+      213: -7263148741748586350
+    second: Arcade - Legend of Heroes - Chanyu_55
+  - first:
+      213: 5723965003554015933
+    second: Arcade - Legend of Heroes - Chanyu_56
+  - first:
+      213: -3893271081300736565
+    second: Arcade - Legend of Heroes - Chanyu_57
+  - first:
+      213: 5243072364663756667
+    second: Arcade - Legend of Heroes - Chanyu_58
+  - first:
+      213: -4650140207183332928
+    second: Arcade - Legend of Heroes - Chanyu_59
+  - first:
+      213: -7016866005361266465
+    second: Arcade - Legend of Heroes - Chanyu_60
+  - first:
+      213: 5876952700352442579
+    second: Arcade - Legend of Heroes - Chanyu_61
+  - first:
+      213: 5795460973221443047
+    second: Arcade - Legend of Heroes - Chanyu_62
+  - first:
+      213: -4072314360136162797
+    second: Arcade - Legend of Heroes - Chanyu_63
+  - first:
+      213: 2049693252984489098
+    second: Arcade - Legend of Heroes - Chanyu_64
+  - first:
+      213: 8959526788287828627
+    second: Arcade - Legend of Heroes - Chanyu_65
+  - first:
+      213: -188334284862542003
+    second: Arcade - Legend of Heroes - Chanyu_66
+  - first:
+      213: 7110931297956511709
+    second: Arcade - Legend of Heroes - Chanyu_67
+  - first:
+      213: -5230000675194862797
+    second: Arcade - Legend of Heroes - Chanyu_68
+  - first:
+      213: -4920407050428460178
+    second: Arcade - Legend of Heroes - Chanyu_69
+  - first:
+      213: -4255267375631278232
+    second: Arcade - Legend of Heroes - Chanyu_70
+  - first:
+      213: 1388583417316251843
+    second: Arcade - Legend of Heroes - Chanyu_71
+  - first:
+      213: 476870669052979411
+    second: Arcade - Legend of Heroes - Chanyu_72
+  - first:
+      213: -6042159094798051580
+    second: Arcade - Legend of Heroes - Chanyu_73
+  - first:
+      213: -2026526115335352235
+    second: Arcade - Legend of Heroes - Chanyu_74
+  - first:
+      213: -2656402179498916161
+    second: Arcade - Legend of Heroes - Chanyu_75
+  - first:
+      213: -8807613855062536315
+    second: Arcade - Legend of Heroes - Chanyu_76
+  - first:
+      213: -3813249049917661800
+    second: Arcade - Legend of Heroes - Chanyu_77
+  - first:
+      213: 2647981370535205777
+    second: Arcade - Legend of Heroes - Chanyu_78
+  - first:
+      213: -5568432153151260789
+    second: Arcade - Legend of Heroes - Chanyu_79
+  - first:
+      213: -8382641055887722991
+    second: Arcade - Legend of Heroes - Chanyu_80
+  - first:
+      213: -4744185357791478181
+    second: Arcade - Legend of Heroes - Chanyu_81
+  - first:
+      213: -3567518853839296212
+    second: Arcade - Legend of Heroes - Chanyu_82
+  - first:
+      213: -1155912534309959743
+    second: Arcade - Legend of Heroes - Chanyu_83
+  - first:
+      213: -923867779612087745
+    second: Arcade - Legend of Heroes - Chanyu_84
+  - first:
+      213: -80813118737995044
+    second: Arcade - Legend of Heroes - Chanyu_85
+  - first:
+      213: 5754400422050092659
+    second: Arcade - Legend of Heroes - Chanyu_86
+  - first:
+      213: 7121552648176451787
+    second: Arcade - Legend of Heroes - Chanyu_87
+  - first:
+      213: -1418731118209735600
+    second: Arcade - Legend of Heroes - Chanyu_88
+  - first:
+      213: -4853017916560165526
+    second: Arcade - Legend of Heroes - Chanyu_89
+  - first:
+      213: -2160556036989797407
+    second: Arcade - Legend of Heroes - Chanyu_90
+  - first:
+      213: -4463795357424562846
+    second: Arcade - Legend of Heroes - Chanyu_91
+  - first:
+      213: -3859271402694670971
+    second: Arcade - Legend of Heroes - Chanyu_92
+  - first:
+      213: -1497961426749890439
+    second: Arcade - Legend of Heroes - Chanyu_93
+  - first:
+      213: -3859856772002502054
+    second: Arcade - Legend of Heroes - Chanyu_94
+  - first:
+      213: 6885235503060625796
+    second: Arcade - Legend of Heroes - Chanyu_95
+  - first:
+      213: -284905791058842732
+    second: Arcade - Legend of Heroes - Chanyu_96
+  - first:
+      213: -8538309772891370378
+    second: Arcade - Legend of Heroes - Chanyu_97
+  - first:
+      213: 8309280400471538369
+    second: Arcade - Legend of Heroes - Chanyu_98
+  - first:
+      213: 8587316805894919139
+    second: Arcade - Legend of Heroes - Chanyu_99
+  - first:
+      213: -6634915508654579961
+    second: Arcade - Legend of Heroes - Chanyu_100
+  - first:
+      213: 4235501729402464420
+    second: Arcade - Legend of Heroes - Chanyu_101
+  - first:
+      213: 6382557260099038639
+    second: Arcade - Legend of Heroes - Chanyu_102
+  - first:
+      213: 6378079709382179009
+    second: Arcade - Legend of Heroes - Chanyu_103
+  - first:
+      213: 51576349023193474
+    second: Arcade - Legend of Heroes - Chanyu_104
+  - first:
+      213: -6257909344574388438
+    second: Arcade - Legend of Heroes - Chanyu_105
+  - first:
+      213: 9090181032236081649
+    second: Arcade - Legend of Heroes - Chanyu_106
+  - first:
+      213: 1670688447366282112
+    second: Arcade - Legend of Heroes - Chanyu_107
+  - first:
+      213: 4839936124178512115
+    second: Arcade - Legend of Heroes - Chanyu_108
+  - first:
+      213: -9562235416875673
+    second: Arcade - Legend of Heroes - Chanyu_109
+  - first:
+      213: -3453362259885287510
+    second: Arcade - Legend of Heroes - Chanyu_110
+  - first:
+      213: 7518506387402738623
+    second: Arcade - Legend of Heroes - Chanyu_111
+  - first:
+      213: -6102799183700674494
+    second: Arcade - Legend of Heroes - Chanyu_112
+  - first:
+      213: -329454418236395330
+    second: Arcade - Legend of Heroes - Chanyu_113
+  - first:
+      213: 1469147934200251432
+    second: Arcade - Legend of Heroes - Chanyu_114
+  - first:
+      213: -2899131245022985727
+    second: Arcade - Legend of Heroes - Chanyu_115
+  - first:
+      213: -4162506881863943353
+    second: Arcade - Legend of Heroes - Chanyu_116
+  - first:
+      213: -8724471914421037169
+    second: Arcade - Legend of Heroes - Chanyu_117
+  - first:
+      213: 1792801595679189306
+    second: Arcade - Legend of Heroes - Chanyu_118
+  - first:
+      213: 7236402215602137720
+    second: Arcade - Legend of Heroes - Chanyu_119
+  - first:
+      213: -5742475336840762335
+    second: Arcade - Legend of Heroes - Chanyu_120
+  - first:
+      213: 5287849770539157614
+    second: Arcade - Legend of Heroes - Chanyu_121
+  - first:
+      213: 5499424375556223214
+    second: Arcade - Legend of Heroes - Chanyu_122
+  - first:
+      213: -808641541509904998
+    second: Arcade - Legend of Heroes - Chanyu_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f71b0dbd021f20800000000000000
+      internalID: 3391788574949505049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 584
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea700246f900710800000000000000
+      internalID: 1657499915255262804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 581
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d49dbeff6ab4be0800000000000000
+      internalID: -1491915233439429285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 579
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd74f4197a825de0800000000000000
+      internalID: -1345861085983113789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c645763a51b9990800000000000000
+      internalID: -7378279772958987236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b690a5eb6f914f90800000000000000
+      internalID: -6971115462429993292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa66c9f2738c6210800000000000000
+      internalID: 1327580520007494384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d762fff7fcd5c0f80800000000000000
+      internalID: -8139027280778287491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f85f5e27c9222b0800000000000000
+      internalID: -5610750168451936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ee11631a265d00800000000000000
+      internalID: 961001833212339186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 644
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f482b6b378f1c80800000000000000
+      internalID: -8349806494850986185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a680c4f4a5823520800000000000000
+      internalID: 2680351671766255264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa89f285b902510800000000000000
+      internalID: 1522387477109190534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 644
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c36c19dd2cd6890800000000000000
+      internalID: -7463094750593794974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 642
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910fea328c350090800000000000000
+      internalID: -8068976627332218470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 644
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a287170fd6e9f0800000000000000
+      internalID: -439418692069841223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3479f0ce114c8a70800000000000000
+      internalID: 8830504569709098045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 644
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe62e2f6d4ccd1b0800000000000000
+      internalID: -5630409006642991365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 644
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7fcfc0b35f85c0800000000000000
+      internalID: -4211055107702292835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05496bba153f5fa10800000000000000
+      internalID: 1942726346379007056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48932def1e0878b90800000000000000
+      internalID: -7239676167843595900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9d28fd5ad1d610800000000000000
+      internalID: 1644335436097494044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 644
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b90331603461f0800000000000000
+      internalID: -1052663218871618334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 632
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17280b57720a01d10800000000000000
+      internalID: 2094349918065951345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 630
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb5f06575decea30800000000000000
+      internalID: 4246029508065319907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 630
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79657615ca786a0800000000000000
+      internalID: -6446994875931519002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaaa80fd5e8b2190800000000000000
+      internalID: -7986132980092720474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 632
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc87b1fc6cf5c020800000000000000
+      internalID: 2361571124467698932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 632
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74418e3a76829d0a0800000000000000
+      internalID: -6856404532098231225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 630
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c199cafbe62d30800000000000000
+      internalID: 4406468747784733928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc8393aa77eb2a0800000000000000
+      internalID: -6719802021002032141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df093ed96cc70960800000000000000
+      internalID: 7568242453891321811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 630
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc8cbc36a396100800000000000000
+      internalID: 101676666887655222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_33
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 632
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d31c94d732b760800000000000000
+      internalID: 7472096118052215185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc69536a167530ca0800000000000000
+      internalID: -6051897397343840565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6d10ce7b397c70800000000000000
+      internalID: 8969265548460125625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 632
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3966d58b6a1029f0800000000000000
+      internalID: -495366909901510341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 631
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef22b398764c5e590800000000000000
+      internalID: -7645488843428519170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886eedb74bc54ef50800000000000000
+      internalID: 6909749658535257736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 632
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39357a758e826fee0800000000000000
+      internalID: -1227748870043774061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f484350d701245bb0800000000000000
+      internalID: -4948293773129725873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 630
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9e56110c0752d0800000000000000
+      internalID: -3290147803961058712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc69d76eb765d60800000000000000
+      internalID: 7878620828010990862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d9d11428c1cb510800000000000000
+      internalID: 1566158116181876099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_44
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e49a70387f8d90800000000000000
+      internalID: -7093318738474898992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 620
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59171e7a2cc63a9d0800000000000000
+      internalID: -2764246162979327595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 620
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff8250e3d4f7a50800000000000000
+      internalID: 6521015714225651513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 618
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ee661edf7de3060800000000000000
+      internalID: 6935217961605459615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 618
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7524058ac0b830800000000000000
+      internalID: 4084987534674066648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 618
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4635ac712b1a2a240800000000000000
+      internalID: 4801577939005756260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_50
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 620
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e0302c894c8cb0800000000000000
+      internalID: -4860429031655282527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 620
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f0fb4957ff9600800000000000000
+      internalID: 477372048422794041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 620
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b864f43ee0445c260800000000000000
+      internalID: 7117169616862791307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 620
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018c81a1a8e0c4e0800000000000000
+      internalID: -1963313656635817718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_54
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 620
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcf43be1c95bf60800000000000000
+      internalID: 8049511564665932623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 620
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298004183bc143b90800000000000000
+      internalID: -7263148741748586350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 608
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaca9708db9f6f40800000000000000
+      internalID: 5723965003554015933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_57
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c4c8349258f9c0800000000000000
+      internalID: -3893271081300736565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 608
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775373698223c840800000000000000
+      internalID: 5243072364663756667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 608
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9731b7e12677fb0800000000000000
+      internalID: -4650140207183332928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 608
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd07de98b851f9e90800000000000000
+      internalID: -7016866005361266465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b742f7512f8150800000000000000
+      internalID: 5876952700352442579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 608
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5f08aac0d9d6050800000000000000
+      internalID: 5795460973221443047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ac5e5aab3c77c0800000000000000
+      internalID: -4072314360136162797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_64
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c7a26729f17c10800000000000000
+      internalID: 2049693252984489098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 608
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3921e73f422a65c70800000000000000
+      internalID: 8959526788287828627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_66
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fadbb37f6e26df0800000000000000
+      internalID: -188334284862542003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 608
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb7e4175a1fa260800000000000000
+      internalID: 7110931297956511709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_68
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 608
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33305fb781e4b67b0800000000000000
+      internalID: -5230000675194862797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_69
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6352e86bd337bbb0800000000000000
+      internalID: -4920407050428460178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 606
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f50330ed042f4c0800000000000000
+      internalID: -4255267375631278232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 501
+        width: 116
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81222d24d354310800000000000000
+      internalID: 1388583417316251843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 501
+        width: 126
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8a4b0d85f2e9600800000000000000
+      internalID: 476870669052979411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 501
+        width: 127
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079a26e050f52ca0800000000000000
+      internalID: -6042159094798051580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550526f2c3550e3e0800000000000000
+      internalID: -2026526115335352235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 419
+        width: 145
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c46eba40922bd0800000000000000
+      internalID: -2656402179498916161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_76
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 421
+        width: 148
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f40321dd115c580800000000000000
+      internalID: -8807613855062536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_77
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 421
+        width: 149
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ddf8b413e941bc0800000000000000
+      internalID: -3813249049917661800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 314
+        width: 166
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b5a92e6058fb420800000000000000
+      internalID: 2647981370535205777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 300
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873e83a574f8b2b0800000000000000
+      internalID: -5568432153151260789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 313
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116f4307f50eaab80800000000000000
+      internalID: -8382641055887722991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 304
+        width: 156
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eba388d84492eb0800000000000000
+      internalID: -4744185357791478181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 157
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2966630180ad7ec0800000000000000
+      internalID: -3567518853839296212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 185
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78801acaf55ffe0800000000000000
+      internalID: -1155912534309959743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aeac83623cd23f0800000000000000
+      internalID: -923867779612087745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 188
+        width: 153
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2e6c85e4e0eef0800000000000000
+      internalID: -80813118737995044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37657ab12bcbbdf40800000000000000
+      internalID: 5754400422050092659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ccc3e666d4d260800000000000000
+      internalID: 7121552648176451787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_88
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054e0539097af4ce0800000000000000
+      internalID: -1418731118209735600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 13
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6533d2daed96acb0800000000000000
+      internalID: -4853017916560165526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_90
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 80
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebb5e14bb92402e0800000000000000
+      internalID: -2160556036989797407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dcbaac5c96d02c0800000000000000
+      internalID: -4463795357424562846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_92
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 69
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5858f864b1d117ac0800000000000000
+      internalID: -3859271402694670971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_93
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 63
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e557d40c263be0800000000000000
+      internalID: -1497961426749890439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 53
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa7ec57b80f6ac0800000000000000
+      internalID: -3859856772002502054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 25
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48926d2e5354d8f50800000000000000
+      internalID: 6885235503060625796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 58
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6c7941bfcb0cf0800000000000000
+      internalID: -284905791058842732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c409cdf74d18980800000000000000
+      internalID: -8538309772891370378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cab831ff7e705370800000000000000
+      internalID: 8309280400471538369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_99
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 51
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3db1d23274c2770800000000000000
+      internalID: 8587316805894919139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 48
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd9e78f7b0ce3a0800000000000000
+      internalID: -6634915508654579961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8269ad16687ca30800000000000000
+      internalID: 4235501729402464420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 45
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad2bc60306639850800000000000000
+      internalID: 6382557260099038639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 25
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f9d204bd738850800000000000000
+      internalID: 6378079709382179009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_104
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c65a8a6c37b000800000000000000
+      internalID: 51576349023193474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_105
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 38
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27cb006b907729a0800000000000000
+      internalID: -6257909344574388438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ec6aac7fc62e70800000000000000
+      internalID: 9090181032236081649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbd9b8a4a7f2710800000000000000
+      internalID: 1670688447366282112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_108
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 21
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8bd390348ea2340800000000000000
+      internalID: 4839936124178512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 30
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de7b292370edff0800000000000000
+      internalID: -9562235416875673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa71cc242513310d0800000000000000
+      internalID: -3453362259885287510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_111
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb45ae79b9175860800000000000000
+      internalID: 7518506387402738623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 29
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2483af7f9708e4ba0800000000000000
+      internalID: -6102799183700674494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 29
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0365fb3fa8d6bf0800000000000000
+      internalID: -329454418236395330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82441842346736410800000000000000
+      internalID: 1469147934200251432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024b2f2e7734c7d0800000000000000
+      internalID: -2899131245022985727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b716b7b0ecb36c0800000000000000
+      internalID: -4162506881863943353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87df00a4037ce680800000000000000
+      internalID: -8724471914421037169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_118
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3926377d8f41e810800000000000000
+      internalID: 1792801595679189306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa0d8997ddc6460800000000000000
+      internalID: 7236402215602137720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_120
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2a282b11ae40b0800000000000000
+      internalID: -5742475336840762335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_121
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e680e9e9957326940800000000000000
+      internalID: 5287849770539157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_122
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee037261551e15c40800000000000000
+      internalID: 5499424375556223214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Legend of Heroes - Chanyu_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958da76dc027c4f0800000000000000
+      internalID: -808641541509904998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Legend of Heroes - Chanyu_0: 3391788574949505049
+      Arcade - Legend of Heroes - Chanyu_1: 1657499915255262804
+      Arcade - Legend of Heroes - Chanyu_10: -8349806494850986185
+      Arcade - Legend of Heroes - Chanyu_100: -6634915508654579961
+      Arcade - Legend of Heroes - Chanyu_101: 4235501729402464420
+      Arcade - Legend of Heroes - Chanyu_102: 6382557260099038639
+      Arcade - Legend of Heroes - Chanyu_103: 6378079709382179009
+      Arcade - Legend of Heroes - Chanyu_104: 51576349023193474
+      Arcade - Legend of Heroes - Chanyu_105: -6257909344574388438
+      Arcade - Legend of Heroes - Chanyu_106: 9090181032236081649
+      Arcade - Legend of Heroes - Chanyu_107: 1670688447366282112
+      Arcade - Legend of Heroes - Chanyu_108: 4839936124178512115
+      Arcade - Legend of Heroes - Chanyu_109: -9562235416875673
+      Arcade - Legend of Heroes - Chanyu_11: 2680351671766255264
+      Arcade - Legend of Heroes - Chanyu_110: -3453362259885287510
+      Arcade - Legend of Heroes - Chanyu_111: 7518506387402738623
+      Arcade - Legend of Heroes - Chanyu_112: -6102799183700674494
+      Arcade - Legend of Heroes - Chanyu_113: -329454418236395330
+      Arcade - Legend of Heroes - Chanyu_114: 1469147934200251432
+      Arcade - Legend of Heroes - Chanyu_115: -2899131245022985727
+      Arcade - Legend of Heroes - Chanyu_116: -4162506881863943353
+      Arcade - Legend of Heroes - Chanyu_117: -8724471914421037169
+      Arcade - Legend of Heroes - Chanyu_118: 1792801595679189306
+      Arcade - Legend of Heroes - Chanyu_119: 7236402215602137720
+      Arcade - Legend of Heroes - Chanyu_12: 1522387477109190534
+      Arcade - Legend of Heroes - Chanyu_120: -5742475336840762335
+      Arcade - Legend of Heroes - Chanyu_121: 5287849770539157614
+      Arcade - Legend of Heroes - Chanyu_122: 5499424375556223214
+      Arcade - Legend of Heroes - Chanyu_123: -808641541509904998
+      Arcade - Legend of Heroes - Chanyu_13: -7463094750593794974
+      Arcade - Legend of Heroes - Chanyu_14: -8068976627332218470
+      Arcade - Legend of Heroes - Chanyu_15: -439418692069841223
+      Arcade - Legend of Heroes - Chanyu_16: 8830504569709098045
+      Arcade - Legend of Heroes - Chanyu_17: -5630409006642991365
+      Arcade - Legend of Heroes - Chanyu_18: -4211055107702292835
+      Arcade - Legend of Heroes - Chanyu_19: 1942726346379007056
+      Arcade - Legend of Heroes - Chanyu_2: -1491915233439429285
+      Arcade - Legend of Heroes - Chanyu_20: -7239676167843595900
+      Arcade - Legend of Heroes - Chanyu_21: 1644335436097494044
+      Arcade - Legend of Heroes - Chanyu_22: -1052663218871618334
+      Arcade - Legend of Heroes - Chanyu_23: 2094349918065951345
+      Arcade - Legend of Heroes - Chanyu_24: 4246029508065319907
+      Arcade - Legend of Heroes - Chanyu_25: -6446994875931519002
+      Arcade - Legend of Heroes - Chanyu_26: -7986132980092720474
+      Arcade - Legend of Heroes - Chanyu_27: 2361571124467698932
+      Arcade - Legend of Heroes - Chanyu_28: -6856404532098231225
+      Arcade - Legend of Heroes - Chanyu_29: 4406468747784733928
+      Arcade - Legend of Heroes - Chanyu_3: -1345861085983113789
+      Arcade - Legend of Heroes - Chanyu_30: -6719802021002032141
+      Arcade - Legend of Heroes - Chanyu_31: 7568242453891321811
+      Arcade - Legend of Heroes - Chanyu_32: 101676666887655222
+      Arcade - Legend of Heroes - Chanyu_33: 7472096118052215185
+      Arcade - Legend of Heroes - Chanyu_34: -6051897397343840565
+      Arcade - Legend of Heroes - Chanyu_35: 8969265548460125625
+      Arcade - Legend of Heroes - Chanyu_36: -495366909901510341
+      Arcade - Legend of Heroes - Chanyu_37: -7645488843428519170
+      Arcade - Legend of Heroes - Chanyu_38: 6909749658535257736
+      Arcade - Legend of Heroes - Chanyu_39: -1227748870043774061
+      Arcade - Legend of Heroes - Chanyu_4: -7378279772958987236
+      Arcade - Legend of Heroes - Chanyu_40: -4948293773129725873
+      Arcade - Legend of Heroes - Chanyu_41: -3290147803961058712
+      Arcade - Legend of Heroes - Chanyu_42: 7878620828010990862
+      Arcade - Legend of Heroes - Chanyu_43: 1566158116181876099
+      Arcade - Legend of Heroes - Chanyu_44: -7093318738474898992
+      Arcade - Legend of Heroes - Chanyu_45: -2764246162979327595
+      Arcade - Legend of Heroes - Chanyu_46: 6521015714225651513
+      Arcade - Legend of Heroes - Chanyu_47: 6935217961605459615
+      Arcade - Legend of Heroes - Chanyu_48: 4084987534674066648
+      Arcade - Legend of Heroes - Chanyu_49: 4801577939005756260
+      Arcade - Legend of Heroes - Chanyu_5: -6971115462429993292
+      Arcade - Legend of Heroes - Chanyu_50: -4860429031655282527
+      Arcade - Legend of Heroes - Chanyu_51: 477372048422794041
+      Arcade - Legend of Heroes - Chanyu_52: 7117169616862791307
+      Arcade - Legend of Heroes - Chanyu_53: -1963313656635817718
+      Arcade - Legend of Heroes - Chanyu_54: 8049511564665932623
+      Arcade - Legend of Heroes - Chanyu_55: -7263148741748586350
+      Arcade - Legend of Heroes - Chanyu_56: 5723965003554015933
+      Arcade - Legend of Heroes - Chanyu_57: -3893271081300736565
+      Arcade - Legend of Heroes - Chanyu_58: 5243072364663756667
+      Arcade - Legend of Heroes - Chanyu_59: -4650140207183332928
+      Arcade - Legend of Heroes - Chanyu_6: 1327580520007494384
+      Arcade - Legend of Heroes - Chanyu_60: -7016866005361266465
+      Arcade - Legend of Heroes - Chanyu_61: 5876952700352442579
+      Arcade - Legend of Heroes - Chanyu_62: 5795460973221443047
+      Arcade - Legend of Heroes - Chanyu_63: -4072314360136162797
+      Arcade - Legend of Heroes - Chanyu_64: 2049693252984489098
+      Arcade - Legend of Heroes - Chanyu_65: 8959526788287828627
+      Arcade - Legend of Heroes - Chanyu_66: -188334284862542003
+      Arcade - Legend of Heroes - Chanyu_67: 7110931297956511709
+      Arcade - Legend of Heroes - Chanyu_68: -5230000675194862797
+      Arcade - Legend of Heroes - Chanyu_69: -4920407050428460178
+      Arcade - Legend of Heroes - Chanyu_7: -8139027280778287491
+      Arcade - Legend of Heroes - Chanyu_70: -4255267375631278232
+      Arcade - Legend of Heroes - Chanyu_71: 1388583417316251843
+      Arcade - Legend of Heroes - Chanyu_72: 476870669052979411
+      Arcade - Legend of Heroes - Chanyu_73: -6042159094798051580
+      Arcade - Legend of Heroes - Chanyu_74: -2026526115335352235
+      Arcade - Legend of Heroes - Chanyu_75: -2656402179498916161
+      Arcade - Legend of Heroes - Chanyu_76: -8807613855062536315
+      Arcade - Legend of Heroes - Chanyu_77: -3813249049917661800
+      Arcade - Legend of Heroes - Chanyu_78: 2647981370535205777
+      Arcade - Legend of Heroes - Chanyu_79: -5568432153151260789
+      Arcade - Legend of Heroes - Chanyu_8: -5610750168451936500
+      Arcade - Legend of Heroes - Chanyu_80: -8382641055887722991
+      Arcade - Legend of Heroes - Chanyu_81: -4744185357791478181
+      Arcade - Legend of Heroes - Chanyu_82: -3567518853839296212
+      Arcade - Legend of Heroes - Chanyu_83: -1155912534309959743
+      Arcade - Legend of Heroes - Chanyu_84: -923867779612087745
+      Arcade - Legend of Heroes - Chanyu_85: -80813118737995044
+      Arcade - Legend of Heroes - Chanyu_86: 5754400422050092659
+      Arcade - Legend of Heroes - Chanyu_87: 7121552648176451787
+      Arcade - Legend of Heroes - Chanyu_88: -1418731118209735600
+      Arcade - Legend of Heroes - Chanyu_89: -4853017916560165526
+      Arcade - Legend of Heroes - Chanyu_9: 961001833212339186
+      Arcade - Legend of Heroes - Chanyu_90: -2160556036989797407
+      Arcade - Legend of Heroes - Chanyu_91: -4463795357424562846
+      Arcade - Legend of Heroes - Chanyu_92: -3859271402694670971
+      Arcade - Legend of Heroes - Chanyu_93: -1497961426749890439
+      Arcade - Legend of Heroes - Chanyu_94: -3859856772002502054
+      Arcade - Legend of Heroes - Chanyu_95: 6885235503060625796
+      Arcade - Legend of Heroes - Chanyu_96: -284905791058842732
+      Arcade - Legend of Heroes - Chanyu_97: -8538309772891370378
+      Arcade - Legend of Heroes - Chanyu_98: 8309280400471538369
+      Arcade - Legend of Heroes - Chanyu_99: 8587316805894919139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

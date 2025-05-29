@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 90b528b9fd0a77840981309d12ee7b6e
+  - enabled: 1
+    path: Assets/Scenes/MenuDificuldade.unity
+    guid: a475aa16e5f9bf947b9b134a75cbfda2
+  - enabled: 1
+    path: Assets/Scenes/Cena1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Cena2.unity
+    guid: 37781eb327a027244aed5fe62a8e39ba
+  - enabled: 1
+    path: Assets/Scenes/Cena3.unity
+    guid: 821a8cbead59b264eb3bb96ce1f55df9
+  - enabled: 1
+    path: "Assets/Scenes/PARAB\xC9NS.unity"
+    guid: 849b3dfe2707ba74da84851c2ea2305f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

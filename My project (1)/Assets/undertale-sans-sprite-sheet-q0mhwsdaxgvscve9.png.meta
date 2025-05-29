@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 354af3bb01b013343b117bcb90ff0480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6356012232227578329
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_0
+  - first:
+      213: 8066956342945030582
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_1
+  - first:
+      213: 386548784499437853
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_2
+  - first:
+      213: -6097773989549135337
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_3
+  - first:
+      213: -3696293105880843592
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_4
+  - first:
+      213: 6225408255833331534
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_5
+  - first:
+      213: -1385665784007280743
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_6
+  - first:
+      213: -7740294309792471572
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_7
+  - first:
+      213: -8942796034503058111
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_8
+  - first:
+      213: 8679587105088042377
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_9
+  - first:
+      213: 4098845849228302088
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_10
+  - first:
+      213: 8601650316053465446
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_11
+  - first:
+      213: -554134097136910348
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_12
+  - first:
+      213: -3980721408354927869
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_13
+  - first:
+      213: 315077012330153793
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_14
+  - first:
+      213: 9020926533130553794
+    second: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d166f91377153850800000000000000
+      internalID: 6356012232227578329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 289
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a2d7ad0693ff60800000000000000
+      internalID: 8066956342945030582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 284
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11b27c421c4d5500800000000000000
+      internalID: 386548784499437853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 289
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aae482dda506ba0800000000000000
+      internalID: -6097773989549135337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 284
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3f36010124bcc0800000000000000
+      internalID: -3696293105880843592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 281
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47dab633d7156650800000000000000
+      internalID: 6225408255833331534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 284
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99735de9f4025cce0800000000000000
+      internalID: -1385665784007280743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 281
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a7d7c553f49490800000000000000
+      internalID: -7740294309792471572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 80
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4636628, y: 0.005195239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5ca8336ec4e380800000000000000
+      internalID: -8942796034503058111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 85
+        height: 138
+      alignment: 9
+      pivot: {x: 0.47058824, y: -0.007246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98575d35c76147870800000000000000
+      internalID: 8679587105088042377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 83
+        height: 141
+      alignment: 9
+      pivot: {x: 0.50602406, y: 0.0070921984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8075650559602e830800000000000000
+      internalID: 4098845849228302088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 147
+        width: 83
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6694e7293633f5770800000000000000
+      internalID: 8601650316053465446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 84
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff83e79f15f48f0800000000000000
+      internalID: -554134097136910348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b363948f2a1c8c0800000000000000
+      internalID: -3980721408354927869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 84
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14784d49fd06f5400800000000000000
+      internalID: 315077012330153793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 85
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9842013e4c03d70800000000000000
+      internalID: 9020926533130553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34cde666c2efdc4478fa6e31a870686b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_0: 6356012232227578329
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_1: 8066956342945030582
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_10: 4098845849228302088
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_11: 8601650316053465446
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_12: -554134097136910348
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_13: -3980721408354927869
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_14: 315077012330153793
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_15: 9020926533130553794
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_2: 386548784499437853
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_3: -6097773989549135337
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_4: -3696293105880843592
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_5: 6225408255833331534
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_6: -1385665784007280743
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_7: -7740294309792471572
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_8: -8942796034503058111
+      undertale-sans-sprite-sheet-q0mhwsdaxgvscve9_9: 8679587105088042377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

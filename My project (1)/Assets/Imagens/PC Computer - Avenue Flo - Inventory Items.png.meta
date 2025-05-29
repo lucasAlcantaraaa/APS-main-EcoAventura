@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: baf868585a0aaa948883d71c4e3896cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7097850145240650699
+    second: PC Computer - Avenue Flo - Inventory Items_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31147d2950923ab4ca806b663b002908
+      internalID: -1749306979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb426bc2bb6ae945a79bf57780095a7
+      internalID: -660465638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07824b00eadc5cb44a7ec2e3eac92ab1
+      internalID: -795050732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9d2621388c4a4396bd8f07d7a879b
+      internalID: 968604174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d83bbda6800214fbac076fe39bc816
+      internalID: -1437086584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 271
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab906f806d21f41b7c8b5e0740c0be
+      internalID: -789369299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38b49d0f48e5341b0815a44097292f
+      internalID: -1566406146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 218
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e01d8cf023ae694394f825715fc8741
+      internalID: -1737265330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 217
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83152f2157bf15043a0971ed7775b36f
+      internalID: 97888661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 217
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dac38df7d8fcb4eaf95b05c824afe4
+      internalID: -111403726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 217
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930fe936b5eec6438cdcdf76e7ce3f7
+      internalID: 107460027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a346c29f75ec4489aad4422893fa3
+      internalID: 409610970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577822c56531e86468c58010ddd1e563
+      internalID: -1608931708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee92d2b0371d8e4299d7a1a0c675dec
+      internalID: -2001869222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516aba4fd1dd6942bb45969952adb07
+      internalID: -1888600470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60524c9c9bdc924b8225ac7425e7a51
+      internalID: -60141048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11903e60523e847458dcec468ea93873
+      internalID: 169289873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 163
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a79dee3e173241b122502856d049f
+      internalID: -439510882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad724339e4440a4e8d17ed67d695cd2
+      internalID: 1840114330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f65e0739caa8884782c0bb2b1d58459
+      internalID: -1846059998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e08bbcbc24ec4dbbadc85dd67cea1
+      internalID: -831061769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d675ebd75c5f8054ca967d016e6ed1d1
+      internalID: 1897124566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d952d335f6184297ab3a82260c8a6
+      internalID: -641920686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6671e4fe8fcb70f4db6a8d07e60d7f5a
+      internalID: -1171080215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2f8e71d182c647b5345501fca4ece
+      internalID: 139952334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60f6cd186298243bfd254b9512ec30
+      internalID: -1960777986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6257bbb1e5e164ba5f9a271c9f00bf
+      internalID: 499023672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8055759c0ef8214495cd99d2ce895d1
+      internalID: 876034486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a9bddb6237f6479415826e7de6905
+      internalID: -1065067076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 55
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2183d13de3d34abefaa17f85724c3
+      internalID: -787473328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47eea39cee6a148b3735cfb1ddcf84
+      internalID: -2024854954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f728b81ca8524ca492273d0354afe
+      internalID: 1781773714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4d19394ba2fa45907c0254202413e
+      internalID: -875580248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51304eb723111d9468f6a094e9204560
+      internalID: -1996744877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47509fa3460a74aa8abe6061df3e48
+      internalID: -1174481903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Avenue Flo - Inventory Items_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288792613da50344ba5638baef7ac48
+      internalID: 2053202472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d281bed629e96554faf15ded33d0a0d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Avenue Flo - Inventory Items_0: -1749306979
+      PC Computer - Avenue Flo - Inventory Items_1: -660465638
+      PC Computer - Avenue Flo - Inventory Items_10: 107460027
+      PC Computer - Avenue Flo - Inventory Items_11: 409610970
+      PC Computer - Avenue Flo - Inventory Items_12: -1608931708
+      PC Computer - Avenue Flo - Inventory Items_13: -2001869222
+      PC Computer - Avenue Flo - Inventory Items_14: -1888600470
+      PC Computer - Avenue Flo - Inventory Items_15: -60141048
+      PC Computer - Avenue Flo - Inventory Items_16: 169289873
+      PC Computer - Avenue Flo - Inventory Items_17: -439510882
+      PC Computer - Avenue Flo - Inventory Items_18: 1840114330
+      PC Computer - Avenue Flo - Inventory Items_19: -1846059998
+      PC Computer - Avenue Flo - Inventory Items_2: -795050732
+      PC Computer - Avenue Flo - Inventory Items_20: -831061769
+      PC Computer - Avenue Flo - Inventory Items_21: 1897124566
+      PC Computer - Avenue Flo - Inventory Items_22: -641920686
+      PC Computer - Avenue Flo - Inventory Items_23: -1171080215
+      PC Computer - Avenue Flo - Inventory Items_24: 139952334
+      PC Computer - Avenue Flo - Inventory Items_25: -1960777986
+      PC Computer - Avenue Flo - Inventory Items_26: 499023672
+      PC Computer - Avenue Flo - Inventory Items_27: 876034486
+      PC Computer - Avenue Flo - Inventory Items_28: -1065067076
+      PC Computer - Avenue Flo - Inventory Items_29: -787473328
+      PC Computer - Avenue Flo - Inventory Items_3: 968604174
+      PC Computer - Avenue Flo - Inventory Items_30: -2024854954
+      PC Computer - Avenue Flo - Inventory Items_31: 1781773714
+      PC Computer - Avenue Flo - Inventory Items_32: -875580248
+      PC Computer - Avenue Flo - Inventory Items_33: -1996744877
+      PC Computer - Avenue Flo - Inventory Items_34: -1174481903
+      PC Computer - Avenue Flo - Inventory Items_35: 2053202472
+      PC Computer - Avenue Flo - Inventory Items_4: -1437086584
+      PC Computer - Avenue Flo - Inventory Items_5: -789369299
+      PC Computer - Avenue Flo - Inventory Items_6: -1566406146
+      PC Computer - Avenue Flo - Inventory Items_7: -1737265330
+      PC Computer - Avenue Flo - Inventory Items_8: 97888661
+      PC Computer - Avenue Flo - Inventory Items_9: -111403726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

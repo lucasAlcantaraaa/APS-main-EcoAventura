@@ -1,0 +1,4173 @@
+fileFormatVersion: 2
+guid: 20f6cf1b2bb26d344bf2e8f66abe7b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -58451497367244728
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_0
+  - first:
+      213: 9086334093809035957
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_1
+  - first:
+      213: 976194543513879973
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_2
+  - first:
+      213: 3261287148369935517
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_3
+  - first:
+      213: 1964105368735712278
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_4
+  - first:
+      213: 2924157321601200763
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_5
+  - first:
+      213: 4137812834696934561
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_6
+  - first:
+      213: -3626125598646376499
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_7
+  - first:
+      213: -8938454408408648010
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_8
+  - first:
+      213: -2301882793408004503
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_9
+  - first:
+      213: 2878066758056838360
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_10
+  - first:
+      213: -6794313861487998716
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_11
+  - first:
+      213: 4550338232554573936
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_12
+  - first:
+      213: -3609274379865014947
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_13
+  - first:
+      213: 8152190169765466835
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_14
+  - first:
+      213: -6886000284108509357
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_15
+  - first:
+      213: -1214312045083412005
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_16
+  - first:
+      213: 1549171393961029762
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_17
+  - first:
+      213: -4604666415733990201
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_18
+  - first:
+      213: 7210229832942502940
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_19
+  - first:
+      213: -8483403962400951977
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_20
+  - first:
+      213: -7706976478516140422
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_21
+  - first:
+      213: 4883846933058471068
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_22
+  - first:
+      213: 3724338652487473501
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_23
+  - first:
+      213: -2533330389004264018
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_24
+  - first:
+      213: 7834797186059727283
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_25
+  - first:
+      213: -735693736599689060
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_26
+  - first:
+      213: 2633533990499823422
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_27
+  - first:
+      213: 3655396833165510248
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_28
+  - first:
+      213: -466814514435154879
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_29
+  - first:
+      213: 4925561110934752564
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_30
+  - first:
+      213: -4954447771395422135
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_31
+  - first:
+      213: 524223009159452889
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_32
+  - first:
+      213: 5448195732026085670
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_33
+  - first:
+      213: -5885150454216673929
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_34
+  - first:
+      213: 3849044831171681542
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_35
+  - first:
+      213: -577403610695578428
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_36
+  - first:
+      213: 3796029695211872519
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_37
+  - first:
+      213: 2196767791372935754
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_38
+  - first:
+      213: -6359334142246986206
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_39
+  - first:
+      213: -7994275073340829623
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_40
+  - first:
+      213: -4663770382492911192
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_41
+  - first:
+      213: -3159142083183537239
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_42
+  - first:
+      213: -6029807505116081423
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_43
+  - first:
+      213: 6968754579184727696
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_44
+  - first:
+      213: 4151419521448457253
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_45
+  - first:
+      213: 863842289361456823
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_46
+  - first:
+      213: 878746726633409628
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_47
+  - first:
+      213: 7981049407333299615
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_48
+  - first:
+      213: -7009542162720356134
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_49
+  - first:
+      213: -4118600187986080794
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_50
+  - first:
+      213: -3627381155000744675
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_51
+  - first:
+      213: -6234506675763706421
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_52
+  - first:
+      213: -5561619652083987913
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_53
+  - first:
+      213: -6980042639309615238
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_54
+  - first:
+      213: -6506494536946785228
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_55
+  - first:
+      213: 692278711312467505
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_56
+  - first:
+      213: 1109690978286203940
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_57
+  - first:
+      213: -9045515124569447700
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_58
+  - first:
+      213: -1834081888844436961
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_59
+  - first:
+      213: 2165001893104106268
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_60
+  - first:
+      213: -6571773583362824829
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_61
+  - first:
+      213: -4449818960188128739
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_62
+  - first:
+      213: 3048159724828394059
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_63
+  - first:
+      213: 426859299664406223
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_64
+  - first:
+      213: 6240231438818317098
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_65
+  - first:
+      213: 7330756483391967718
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_66
+  - first:
+      213: 4886078237610034805
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_67
+  - first:
+      213: 2093452289639764967
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_68
+  - first:
+      213: -4858754632219802358
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_69
+  - first:
+      213: -2581765982804823674
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_70
+  - first:
+      213: 7460557183420069371
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_71
+  - first:
+      213: 5605072151877068061
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_72
+  - first:
+      213: 5387860208069276412
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_73
+  - first:
+      213: -1503477929178467394
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_74
+  - first:
+      213: -9185000198861889499
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_75
+  - first:
+      213: 8936579979260586159
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_76
+  - first:
+      213: 6989401275022871270
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_77
+  - first:
+      213: -2629089841075295625
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_78
+  - first:
+      213: -7160470839678913871
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_79
+  - first:
+      213: 9086927340718209725
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_80
+  - first:
+      213: -1262946643113929260
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_81
+  - first:
+      213: -3718639428905901456
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_82
+  - first:
+      213: 9164344739067447940
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_83
+  - first:
+      213: -912164520231231231
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_84
+  - first:
+      213: -3240843090094153052
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_85
+  - first:
+      213: 6542052860474243172
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_86
+  - first:
+      213: -4781666143924334804
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_87
+  - first:
+      213: 6780506809082538435
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_88
+  - first:
+      213: -2719936629231256561
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_89
+  - first:
+      213: -7432061566154457399
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_90
+  - first:
+      213: -3363503569405775339
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_91
+  - first:
+      213: -3633658268683087706
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_92
+  - first:
+      213: -7483818229244973609
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_93
+  - first:
+      213: 487361839963766944
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_94
+  - first:
+      213: -821534272720744974
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_95
+  - first:
+      213: 8723618656668795633
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_96
+  - first:
+      213: 7870073293876378865
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_97
+  - first:
+      213: 1892737477748972549
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_98
+  - first:
+      213: -899839140588669526
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_99
+  - first:
+      213: -8063198392915067232
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_100
+  - first:
+      213: 6894123334412273868
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_101
+  - first:
+      213: -6181558595940569205
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_102
+  - first:
+      213: 8981114416974007624
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_103
+  - first:
+      213: -8431364447932813035
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_104
+  - first:
+      213: -7904481987187178816
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_105
+  - first:
+      213: 7906338564103621284
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_106
+  - first:
+      213: -1368676218259418720
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_107
+  - first:
+      213: 3475078545701410184
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_108
+  - first:
+      213: -6395299165030170739
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_109
+  - first:
+      213: -2764480848085404334
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_110
+  - first:
+      213: -4771571313237079127
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_111
+  - first:
+      213: 3063320340002855549
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_112
+  - first:
+      213: -102309819860087583
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_113
+  - first:
+      213: 5802352248795433521
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_114
+  - first:
+      213: 4530892346364391153
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_115
+  - first:
+      213: 8508145228098528281
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_116
+  - first:
+      213: -8424295268109442093
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_117
+  - first:
+      213: -5742856891881664264
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_118
+  - first:
+      213: -4410612674416678950
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_119
+  - first:
+      213: 6104773790616676627
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_120
+  - first:
+      213: 1879180135555397501
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_121
+  - first:
+      213: -3041377827033407219
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_122
+  - first:
+      213: 9216161416438348981
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_123
+  - first:
+      213: 2472322827711640336
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_124
+  - first:
+      213: 7685649376898720322
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_125
+  - first:
+      213: 1889129888640874421
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_126
+  - first:
+      213: 228012722037447258
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_127
+  - first:
+      213: -953506891202007598
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_128
+  - first:
+      213: -4123107691849693596
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_129
+  - first:
+      213: -5963606529337701142
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_130
+  - first:
+      213: -6277662476898986742
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_131
+  - first:
+      213: -5488744499173386428
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_132
+  - first:
+      213: 436646634479605223
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_133
+  - first:
+      213: -7350755112812992395
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_134
+  - first:
+      213: 1693979884095105716
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_135
+  - first:
+      213: -7365488478226829136
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_136
+  - first:
+      213: -4967577862331182756
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_137
+  - first:
+      213: 4039367885612952669
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_138
+  - first:
+      213: 5906998800187053340
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_139
+  - first:
+      213: -5849377709998603951
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_140
+  - first:
+      213: -9171588934946081116
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_141
+  - first:
+      213: -6934109893470646042
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_142
+  - first:
+      213: -4542400305446391444
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_143
+  - first:
+      213: 819968733963161735
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_144
+  - first:
+      213: -8023289585714799266
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_145
+  - first:
+      213: -5093163017594826687
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_146
+  - first:
+      213: 529586614302016428
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_147
+  - first:
+      213: 9186605435507811719
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_148
+  - first:
+      213: 3818069032911874048
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_149
+  - first:
+      213: 4232310450803130823
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_150
+  - first:
+      213: -8997791154649705904
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_151
+  - first:
+      213: -6644324894558515535
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_152
+  - first:
+      213: 6942247258465948497
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_153
+  - first:
+      213: 3532579741289433403
+    second: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 443
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f5de3ca6503ff0800000000000000
+      internalID: -58451497367244728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 443
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba220487b4291e70800000000000000
+      internalID: 9086334093809035957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 443
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c1d5e3c32c8d00800000000000000
+      internalID: 976194543513879973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf225e16b624d20800000000000000
+      internalID: 3261287148369935517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 478
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140ee43d67e14b10800000000000000
+      internalID: 1964105368735712278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 478
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72b5655791b49820800000000000000
+      internalID: 2924157321601200763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 448
+        width: 235
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b92f99d67c6930800000000000000
+      internalID: 4137812834696934561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 495
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76bb5eaf96dadc0800000000000000
+      internalID: -3626125598646376499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 495
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b637c1d21b34f380800000000000000
+      internalID: -8938454408408648010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 495
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef4589bc11e00e0800000000000000
+      internalID: -2301882793408004503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d486d1c772f0f720800000000000000
+      internalID: 2878066758056838360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 495
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ce717a8fb5b1a0800000000000000
+      internalID: -6794313861487998716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 495
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705b47838c062f30800000000000000
+      internalID: 4550338232554573936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 490
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d3a33031849edc0800000000000000
+      internalID: -3609274379865014947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d25d4a64c5622170800000000000000
+      internalID: 8152190169765466835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 495
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2976a9330070a0800000000000000
+      internalID: -6886000284108509357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93352f0a5e52fe0800000000000000
+      internalID: -1214312045083412005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 495
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807e39cc23cf7510800000000000000
+      internalID: 1549171393961029762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_18
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 495
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc110d9a40f810c0800000000000000
+      internalID: -4604666415733990201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 478
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c144675e4d1ef0460800000000000000
+      internalID: 7210229832942502940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75133fe0b05e44a80800000000000000
+      internalID: -8483403962400951977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7621c1e9b15b0590800000000000000
+      internalID: -7706976478516140422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 459
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94c45ee8e8e6c340800000000000000
+      internalID: 4883846933058471068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d5c4a5428fa330800000000000000
+      internalID: 3724338652487473501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd2b0fe6dc7dcd0800000000000000
+      internalID: -2533330389004264018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 369
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f15ab78acabc60800000000000000
+      internalID: 7834797186059727283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 369
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ee76c17a4ac5f0800000000000000
+      internalID: -735693736599689060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_27
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa8a716313c8420800000000000000
+      internalID: 2633533990499823422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660be97d049ab230800000000000000
+      internalID: 3655396833165510248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c98132caa8589f0800000000000000
+      internalID: -466814514435154879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_30
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d8eb0dbbb1b5440800000000000000
+      internalID: 4925561110934752564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_31
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94800cf60044e3bb0800000000000000
+      internalID: -4954447771395422135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_32
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81904ac0a664700800000000000000
+      internalID: 524223009159452889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_33
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d63a0721eb9b40800000000000000
+      internalID: 5448195732026085670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_34
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775bfaeb7deb35ea0800000000000000
+      internalID: -5885150454216673929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_35
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d9a8e71ed8a6530800000000000000
+      internalID: 3849044831171681542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_36
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc467ca976acf7f0800000000000000
+      internalID: -577403610695578428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_37
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70120f345e43ea430800000000000000
+      internalID: 3796029695211872519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_38
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42adc2daac7c7e10800000000000000
+      internalID: 2196767791372935754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_39
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eda537a4b1fb7a0800000000000000
+      internalID: -6359334142246986206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_40
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94092c02d21ae0190800000000000000
+      internalID: -7994275073340829623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_41
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 437
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b58dfb85f64fb0800000000000000
+      internalID: -4663770382492911192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a39bd063097824d0800000000000000
+      internalID: -3159142083183537239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 408
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f252997502d15ca0800000000000000
+      internalID: -6029807505116081423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 408
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096be232e5df5b060800000000000000
+      internalID: 6968754579184727696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 408
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524be814f0ecc9930800000000000000
+      internalID: 4151419521448457253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 408
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be895f3cfbfcfb00800000000000000
+      internalID: 863842289361456823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 408
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c8588fd7fe13c00800000000000000
+      internalID: 878746726633409628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 402
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9571fa862262ce60800000000000000
+      internalID: 7981049407333299615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 408
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80ee88a8a19be90800000000000000
+      internalID: -7009542162720356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 408
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8b3743fac7d6c0800000000000000
+      internalID: -4118600187986080794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_51
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 408
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d150c37ee04f8adc0800000000000000
+      internalID: -3627381155000744675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_52
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 408
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58d41d5359a79a0800000000000000
+      internalID: -6234506675763706421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 408
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac3b5a46821d2b0800000000000000
+      internalID: -5561619652083987913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_54
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 408
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fcede8338e12f90800000000000000
+      internalID: -6980042639309615238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_55
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 402
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434644801b944b5a0800000000000000
+      internalID: -6506494536946785228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_56
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 408
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364851f1d77b9900800000000000000
+      internalID: 692278711312467505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_57
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 408
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424743bb01a666f00800000000000000
+      internalID: 1109690978286203940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_58
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 408
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26d9d5befd77280800000000000000
+      internalID: -9045515124569447700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 408
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a237e4d380c86e0800000000000000
+      internalID: -1834081888844436961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_60
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 408
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb48840c1ab0e10800000000000000
+      internalID: 2165001893104106268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_61
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 408
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385ec53aebe5cc4a0800000000000000
+      internalID: -6571773583362824829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12403b5b311f32c0800000000000000
+      internalID: -4449818960188128739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b428c01be1d3d4a20800000000000000
+      internalID: 3048159724828394059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a19d75428ce500800000000000000
+      internalID: 426859299664406223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a239df27e61c99650800000000000000
+      internalID: 6240231438818317098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1587f7e241cb560800000000000000
+      internalID: 7330756483391967718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_67
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57643810546dec340800000000000000
+      internalID: 4886078237610034805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_68
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3d43e04cf6d0d10800000000000000
+      internalID: 2093452289639764967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_69
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 295
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0541cf976c329cb0800000000000000
+      internalID: -4858754632219802358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_70
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 324
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813bb57489bb2cd0800000000000000
+      internalID: -2581765982804823674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_71
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 324
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fd380b39398760800000000000000
+      internalID: 7460557183420069371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_72
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 324
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d152119dc6739cd40800000000000000
+      internalID: 5605072151877068061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_73
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 322
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27e69205685ca40800000000000000
+      internalID: 5387860208069276412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_74
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 322
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb37da70ac2922be0800000000000000
+      internalID: -1503477929178467394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_75
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 322
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e1fcbbf2588080800000000000000
+      internalID: -9185000198861889499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_76
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 322
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e1b2a42c150c70800000000000000
+      internalID: 8936579979260586159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_77
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 322
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea866e9d675ff060800000000000000
+      internalID: 6989401275022871270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_78
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 304
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6e1418b8938bd0800000000000000
+      internalID: -2629089841075295625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2356885b5e0ac90800000000000000
+      internalID: -7160470839678913871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba3b4395404b1e70800000000000000
+      internalID: 9086927340718209725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d51cee28bc197ee0800000000000000
+      internalID: -1262946643113929260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_82
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0726d40442db46cc0800000000000000
+      internalID: -3718639428905901456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_83
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac5534cfa4e2f70800000000000000
+      internalID: 9164344739067447940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_84
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10127e2a3375753f0800000000000000
+      internalID: -912164520231231231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_85
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2a82a51663603d0800000000000000
+      internalID: -3240843090094153052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_86
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46835625a6a0aca50800000000000000
+      internalID: 6542052860474243172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_87
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc0e8f9fb14adb0800000000000000
+      internalID: -4781666143924334804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_88
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 221
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c96b78a403391e50800000000000000
+      internalID: 6780506809082538435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_89
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 221
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cf81beb08d04ad0800000000000000
+      internalID: -2719936629231256561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb780e1630cd890800000000000000
+      internalID: -7432061566154457399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_91
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5127fc0035f6251d0800000000000000
+      internalID: -3363503569405775339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_92
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0dbfb7e07a29dc0800000000000000
+      internalID: -3633658268683087706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dda242b8f2242890800000000000000
+      internalID: -7483818229244973609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a00f14e20573c600800000000000000
+      internalID: 487361839963766944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdcbaf7ee25994f0800000000000000
+      internalID: -821534272720744974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2c6b2d2f4801970800000000000000
+      internalID: 8723618656668795633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3acd96fd183d60800000000000000
+      internalID: 7870073293876378865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 195
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cdb4635ba544a10800000000000000
+      internalID: 1892737477748972549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa53836b1112383f0800000000000000
+      internalID: -899839140588669526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 200
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aefbc448c3c91090800000000000000
+      internalID: -8063198392915067232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_101
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 200
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8006165a8dcaf50800000000000000
+      internalID: 6894123334412273868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f23b25531b63aa0800000000000000
+      internalID: -6181558595940569205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_103
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d00ee6af353ac70800000000000000
+      internalID: 8981114416974007624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 195
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5117b15b4b6cdfa80800000000000000
+      internalID: -8431364447932813035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c20c3c2383ad4290800000000000000
+      internalID: -7904481987187178816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_106
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 200
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4e53d805f8bd60800000000000000
+      internalID: 7906338564103621284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15f162b3c710de0800000000000000
+      internalID: -1368676218259418720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_108
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851d1b8685f93030800000000000000
+      internalID: 3475078545701410184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_109
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f360c0b455f37a0800000000000000
+      internalID: -6395299165030170739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_110
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255bf75c05792a9d0800000000000000
+      internalID: -2764480848085404334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_111
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4f06eb29f7cdb0800000000000000
+      internalID: -4771571313237079127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_112
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a591b7e99138a20800000000000000
+      internalID: 3063320340002855549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_113
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 147
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec843ac2c5849ef0800000000000000
+      internalID: -102309819860087583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_114
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 147
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a042bc0a8168050800000000000000
+      internalID: 5802352248795433521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_115
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fee5945596f0ee30800000000000000
+      internalID: 4530892346364391153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9146f32c101031670800000000000000
+      internalID: 8508145228098528281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_117
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d325556614e61b80800000000000000
+      internalID: -8424295268109442093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_118
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05d7375164d40b0800000000000000
+      internalID: -5742856891881664264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 177
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ee8b142b5ac2c0800000000000000
+      internalID: -4410612674416678950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_120
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31962d70b6388b450800000000000000
+      internalID: 6104773790616676627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_121
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ffb08060341a10800000000000000
+      internalID: 1879180135555397501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 177
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01acefeafadac5d0800000000000000
+      internalID: -3041377827033407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf77b9af166ef70800000000000000
+      internalID: 9216161416438348981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_124
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 177
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01377db43847f4220800000000000000
+      internalID: 2472322827711640336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_125
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24220425369e8aa60800000000000000
+      internalID: 7685649376898720322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_126
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7330bef99873a10800000000000000
+      internalID: 1889129888640874421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5adf45dc501a2300800000000000000
+      internalID: 228012722037447258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_128
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd640bc88674c2f0800000000000000
+      internalID: -953506891202007598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_129
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 177
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664e904667c7c6c0800000000000000
+      internalID: -4123107691849693596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 177
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec40a645730d3da0800000000000000
+      internalID: -5963606529337701142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0513acdc3341e8a0800000000000000
+      internalID: -6277662476898986742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44714e765ff04d3b0800000000000000
+      internalID: -5488744499173386428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5d684fcc74f0600800000000000000
+      internalID: 436646634479605223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_134
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 155
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57825edbb2fdcf990800000000000000
+      internalID: -7350755112812992395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_135
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 155
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6520cab9328710800000000000000
+      internalID: 1693979884095105716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 150
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0be0ac04788c990800000000000000
+      internalID: -7365488478226829136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_137
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 155
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d7a9e04e9f0bb0800000000000000
+      internalID: -4967577862331182756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_138
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 155
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ca413c0b7be0830800000000000000
+      internalID: 4039367885612952669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_139
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 155
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15dec5bc10e9f150800000000000000
+      internalID: 5906998800187053340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151027ec6f5d2dea0800000000000000
+      internalID: -5849377709998603951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 155
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b2a2f478f7b080800000000000000
+      internalID: -9171588934946081116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e019265ac715cf90800000000000000
+      internalID: -6934109893470646042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_143
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 688
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61fd362df626f0c0800000000000000
+      internalID: -4542400305446391444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_144
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 95
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801dca183d116b00800000000000000
+      internalID: 819968733963161735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_145
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 95
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dd06981ac87a090800000000000000
+      internalID: -8023289585714799266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_146
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 95
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1409a1168337159b0800000000000000
+      internalID: -5093163017594826687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_147
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1
+        width: 279
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca306474838795700800000000000000
+      internalID: 529586614302016428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_148
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785ad1b88f06d7f70800000000000000
+      internalID: 9186605435507811719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_149
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 59
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a1a27e818cf430800000000000000
+      internalID: 3818069032911874048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_150
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 54
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c14b476eef2cba30800000000000000
+      internalID: 4232310450803130823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_151
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 59
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d3fffd9c612380800000000000000
+      internalID: -8997791154649705904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_152
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be0e8726bd9ac3a0800000000000000
+      internalID: -6644324894558515535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_153
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153dac79911d75060800000000000000
+      internalID: 6942247258465948497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_154
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394c4cee8e360130800000000000000
+      internalID: 3532579741289433403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_0: -58451497367244728
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_1: 9086334093809035957
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_10: 2878066758056838360
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_100: -8063198392915067232
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_101: 6894123334412273868
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_102: -6181558595940569205
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_103: 8981114416974007624
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_104: -8431364447932813035
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_105: -7904481987187178816
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_106: 7906338564103621284
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_107: -1368676218259418720
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_108: 3475078545701410184
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_109: -6395299165030170739
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_11: -6794313861487998716
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_110: -2764480848085404334
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_111: -4771571313237079127
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_112: 3063320340002855549
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_113: -102309819860087583
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_114: 5802352248795433521
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_115: 4530892346364391153
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_116: 8508145228098528281
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_117: -8424295268109442093
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_118: -5742856891881664264
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_119: -4410612674416678950
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_12: 4550338232554573936
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_120: 6104773790616676627
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_121: 1879180135555397501
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_122: -3041377827033407219
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_123: 9216161416438348981
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_124: 2472322827711640336
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_125: 7685649376898720322
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_126: 1889129888640874421
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_127: 228012722037447258
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_128: -953506891202007598
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_129: -4123107691849693596
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_13: -3609274379865014947
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_130: -5963606529337701142
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_131: -6277662476898986742
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_132: -5488744499173386428
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_133: 436646634479605223
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_134: -7350755112812992395
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_135: 1693979884095105716
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_136: -7365488478226829136
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_137: -4967577862331182756
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_138: 4039367885612952669
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_139: 5906998800187053340
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_14: 8152190169765466835
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_140: -5849377709998603951
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_141: -9171588934946081116
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_142: -6934109893470646042
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_143: -4542400305446391444
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_144: 819968733963161735
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_145: -8023289585714799266
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_146: -5093163017594826687
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_147: 529586614302016428
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_148: 9186605435507811719
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_149: 3818069032911874048
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_15: -6886000284108509357
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_150: 4232310450803130823
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_151: -8997791154649705904
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_152: -6644324894558515535
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_153: 6942247258465948497
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_154: 3532579741289433403
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_16: -1214312045083412005
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_17: 1549171393961029762
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_18: -4604666415733990201
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_19: 7210229832942502940
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_2: 976194543513879973
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_20: -8483403962400951977
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_21: -7706976478516140422
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_22: 4883846933058471068
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_23: 3724338652487473501
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_24: -2533330389004264018
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_25: 7834797186059727283
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_26: -735693736599689060
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_27: 2633533990499823422
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_28: 3655396833165510248
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_29: -466814514435154879
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_3: 3261287148369935517
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_30: 4925561110934752564
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_31: -4954447771395422135
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_32: 524223009159452889
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_33: 5448195732026085670
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_34: -5885150454216673929
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_35: 3849044831171681542
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_36: -577403610695578428
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_37: 3796029695211872519
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_38: 2196767791372935754
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_39: -6359334142246986206
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_4: 1964105368735712278
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_40: -7994275073340829623
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_41: -4663770382492911192
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_42: -3159142083183537239
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_43: -6029807505116081423
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_44: 6968754579184727696
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_45: 4151419521448457253
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_46: 863842289361456823
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_47: 878746726633409628
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_48: 7981049407333299615
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_49: -7009542162720356134
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_5: 2924157321601200763
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_50: -4118600187986080794
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_51: -3627381155000744675
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_52: -6234506675763706421
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_53: -5561619652083987913
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_54: -6980042639309615238
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_55: -6506494536946785228
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_56: 692278711312467505
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_57: 1109690978286203940
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_58: -9045515124569447700
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_59: -1834081888844436961
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_6: 4137812834696934561
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_60: 2165001893104106268
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_61: -6571773583362824829
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_62: -4449818960188128739
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_63: 3048159724828394059
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_64: 426859299664406223
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_65: 6240231438818317098
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_66: 7330756483391967718
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_67: 4886078237610034805
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_68: 2093452289639764967
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_69: -4858754632219802358
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_7: -3626125598646376499
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_70: -2581765982804823674
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_71: 7460557183420069371
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_72: 5605072151877068061
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_73: 5387860208069276412
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_74: -1503477929178467394
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_75: -9185000198861889499
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_76: 8936579979260586159
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_77: 6989401275022871270
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_78: -2629089841075295625
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_79: -7160470839678913871
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_8: -8938454408408648010
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_80: 9086927340718209725
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_81: -1262946643113929260
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_82: -3718639428905901456
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_83: 9164344739067447940
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_84: -912164520231231231
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_85: -3240843090094153052
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_86: 6542052860474243172
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_87: -4781666143924334804
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_88: 6780506809082538435
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_89: -2719936629231256561
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_9: -2301882793408004503
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_90: -7432061566154457399
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_91: -3363503569405775339
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_92: -3633658268683087706
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_93: -7483818229244973609
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_94: 487361839963766944
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_95: -821534272720744974
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_96: 8723618656668795633
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_97: 7870073293876378865
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_98: 1892737477748972549
+      Saturn - Castlevania Symphony of the Night JPN - Venus Man Trap_99: -899839140588669526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

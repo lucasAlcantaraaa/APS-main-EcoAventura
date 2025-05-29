@@ -1,0 +1,2523 @@
+fileFormatVersion: 2
+guid: a58055fad3ed68d4094c199b041c41d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2146267304778548045
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_0
+  - first:
+      213: -6387800088537581086
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_1
+  - first:
+      213: -3071271875636439214
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_2
+  - first:
+      213: -1779470090198189971
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_3
+  - first:
+      213: -7122421337472303184
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_4
+  - first:
+      213: -3639260506016663838
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_5
+  - first:
+      213: -536154597871898312
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_6
+  - first:
+      213: -8920298985070962484
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_7
+  - first:
+      213: -3853313971342810838
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_8
+  - first:
+      213: 306046655986156001
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_9
+  - first:
+      213: -1918819534658956521
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_10
+  - first:
+      213: -1114268189949570280
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_11
+  - first:
+      213: 8403091688322603880
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_12
+  - first:
+      213: -7781377557665730680
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_13
+  - first:
+      213: -6339030031486040779
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_14
+  - first:
+      213: -1022910213311118662
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_15
+  - first:
+      213: 4008453896625159236
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_16
+  - first:
+      213: 3821143056097276042
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_17
+  - first:
+      213: -8388886411970930513
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_18
+  - first:
+      213: 3338937591403812011
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_19
+  - first:
+      213: -925804655739739487
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_20
+  - first:
+      213: 3106754673377878051
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_21
+  - first:
+      213: 270170733179531709
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_22
+  - first:
+      213: 8739225863933294234
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_23
+  - first:
+      213: 2771781391315521478
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_24
+  - first:
+      213: 7630409800422531739
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_25
+  - first:
+      213: 7827325768807541103
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_26
+  - first:
+      213: -2019090861017655315
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_27
+  - first:
+      213: -1688810872737411823
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_28
+  - first:
+      213: -6294726671186679719
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_29
+  - first:
+      213: 2195164413030169946
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_30
+  - first:
+      213: 710513504200990122
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_31
+  - first:
+      213: 5423665794512037574
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_32
+  - first:
+      213: -8598486047752934971
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_33
+  - first:
+      213: 140257517806423587
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_34
+  - first:
+      213: -3914893109678878414
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_35
+  - first:
+      213: 440717880458097999
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_36
+  - first:
+      213: -8243388499010625234
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_37
+  - first:
+      213: 2462057485332101714
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_38
+  - first:
+      213: -2616614166532243678
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_39
+  - first:
+      213: -1208931902039483833
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_40
+  - first:
+      213: -8152636813843786949
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_41
+  - first:
+      213: -7642495436234402119
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_42
+  - first:
+      213: 51046378250566006
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_43
+  - first:
+      213: 2920622414337240222
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_44
+  - first:
+      213: 7191110470735561766
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_45
+  - first:
+      213: -5220921949463854604
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_46
+  - first:
+      213: -8193461694125573547
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_47
+  - first:
+      213: 6710029081751819912
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_48
+  - first:
+      213: 4877408831273082700
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_49
+  - first:
+      213: -5666154597124943399
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_50
+  - first:
+      213: 208594096238009238
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_51
+  - first:
+      213: -5612062569441749368
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_52
+  - first:
+      213: 4136772957344608139
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_53
+  - first:
+      213: -8353962979399317513
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_54
+  - first:
+      213: -6168745989801799940
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_55
+  - first:
+      213: 6394864514766611228
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_56
+  - first:
+      213: -7144314043842398162
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_57
+  - first:
+      213: 4180264650412397756
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_58
+  - first:
+      213: -5867279161475782021
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_59
+  - first:
+      213: -9044132003828539408
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_60
+  - first:
+      213: 7635694866355473936
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_61
+  - first:
+      213: -395909948454534368
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_62
+  - first:
+      213: 4000316819419210693
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_63
+  - first:
+      213: -6537279009507607737
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_64
+  - first:
+      213: 5061181216455194335
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_65
+  - first:
+      213: 8671140538872642417
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_66
+  - first:
+      213: -7763859300859468274
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_67
+  - first:
+      213: -8631578025863164600
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_68
+  - first:
+      213: -4643333572814816410
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_69
+  - first:
+      213: -6276104695134543722
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_70
+  - first:
+      213: -4666672003794743176
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_71
+  - first:
+      213: -2624519120068185837
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_72
+  - first:
+      213: 72249969933631575
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_73
+  - first:
+      213: 3676413621080476838
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_74
+  - first:
+      213: 4919124788445429331
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_75
+  - first:
+      213: 348799709356893339
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_76
+  - first:
+      213: 6440147161998656228
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_77
+  - first:
+      213: 2119424153399116314
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_78
+  - first:
+      213: 1764670147230813934
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_79
+  - first:
+      213: 3505165996265018019
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_80
+  - first:
+      213: -5215234776071256340
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_81
+  - first:
+      213: 375080716286639575
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_82
+  - first:
+      213: -2049742954294646184
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_83
+  - first:
+      213: 43273916128020055
+    second: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+      Beast_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 844
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcb3a9f14de632e0800000000000000
+      internalID: -2146267304778548045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 844
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9328ad9a9f957a0800000000000000
+      internalID: -6387800088537581086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 844
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257da0c5086a065d0800000000000000
+      internalID: -3071271875636439214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 844
+        width: 190
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68fd49816d0e47e0800000000000000
+      internalID: -1779470090198189971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 969
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bffc4f9783182d90800000000000000
+      internalID: -7122421337472303184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 831
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b4c5f9dfbe7dc0800000000000000
+      internalID: -3639260506016663838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 654
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8313721eb323f88f0800000000000000
+      internalID: -536154597871898312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 734
+        width: 221
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85198b55bb43480800000000000000
+      internalID: -8920298985070962484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 734
+        width: 221
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ef0adb57468ac0800000000000000
+      internalID: -3853313971342810838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 709
+        width: 255
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e140c6efcb4f3400800000000000000
+      internalID: 306046655986156001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 651
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139290bccbfe55e0800000000000000
+      internalID: -1918819534658956521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 690
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d9812cf25980f0800000000000000
+      internalID: -1114268189949570280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 663
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b91897e57cd9470800000000000000
+      internalID: 8403091688322603880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 587
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f232cb65ef20490800000000000000
+      internalID: -7781377557665730680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 594
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535cdb0a5cd3708a0800000000000000
+      internalID: -6339030031486040779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 513
+        width: 208
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c872a494edc1f0800000000000000
+      internalID: -1022910213311118662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 666
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c7fdec493e0a730800000000000000
+      internalID: 4008453896625159236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 642
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80f0ae3d5d670530800000000000000
+      internalID: 3821143056097276042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_18
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 652
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81f592140b49b80800000000000000
+      internalID: -8388886411970930513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 661
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba492d68c0a465e20800000000000000
+      internalID: 3338937591403812011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 646
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ea3b1291e623f0800000000000000
+      internalID: -925804655739739487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 625
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32029f64ae86d1b20800000000000000
+      internalID: 3106754673377878051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 628
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db17fd3b9d6dfb300800000000000000
+      internalID: 270170733179531709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 631
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9676afee97f74970800000000000000
+      internalID: 8739225863933294234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 616
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf46686d78577620800000000000000
+      internalID: 2771781391315521478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 618
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9228dc2949a4e960800000000000000
+      internalID: 7630409800422531739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 607
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e807d05f30ac60800000000000000
+      internalID: 7827325768807541103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_27
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 631
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71ecb3f8fbaf3e0800000000000000
+      internalID: -2019090861017655315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 608
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d4bad75732098e0800000000000000
+      internalID: -1688810872737411823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 602
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958adb58173a4a8a0800000000000000
+      internalID: -6294726671186679719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 579
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dfd36376ac67e10800000000000000
+      internalID: 2195164413030169946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 609
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad940284404cd900800000000000000
+      internalID: 710513504200990122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_32
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 583
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a356ed4bb44b40800000000000000
+      internalID: 5423665794512037574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 596
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a88d0f7a0ca880800000000000000
+      internalID: -8598486047752934971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_34
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 299
+        width: 158
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0ee5287b42f100800000000000000
+      internalID: 140257517806423587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 581
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23157ff65718ba9c0800000000000000
+      internalID: -3914893109678878414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 566
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453ed6c39ebd1600800000000000000
+      internalID: 440717880458097999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 580
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216ee2e5d9999d80800000000000000
+      internalID: -8243388499010625234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 588
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25abfc50d3cfa2220800000000000000
+      internalID: 2462057485332101714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 579
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3799674befabd0800000000000000
+      internalID: -2616614166532243678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 558
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9c4d17d2093fe0800000000000000
+      internalID: -1208931902039483833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33911823040cde80800000000000000
+      internalID: -8152636813843786949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 293
+        width: 200
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b654b574e660f590800000000000000
+      internalID: -7642495436234402119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 532
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f1ba196a55b000800000000000000
+      internalID: 51046378250566006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 493
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c6d999c92288820800000000000000
+      internalID: 2920622414337240222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 524
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62409cc7fd4fbc360800000000000000
+      internalID: 7191110470735561766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 449
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ca2a062f8b87b0800000000000000
+      internalID: -5220921949463854604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_47
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 493
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55affd0000afa4e80800000000000000
+      internalID: -8193461694125573547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 492
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869b5a06efce1d50800000000000000
+      internalID: 6710029081751819912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_49
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 490
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f926c8d7900b340800000000000000
+      internalID: 4877408831273082700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 483
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1dbeb1a66cd51b0800000000000000
+      internalID: -5666154597124943399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 346
+        width: 255
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9280b93315e200800000000000000
+      internalID: 208594096238009238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 405
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886982bb3d2fd12b0800000000000000
+      internalID: -5612062569441749368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 448
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa7fe4615c86930800000000000000
+      internalID: 4136772957344608139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 472
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c3227ee2c01c80800000000000000
+      internalID: -8353962979399317513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 446
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8f38a436346aa0800000000000000
+      internalID: -6168745989801799940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_56
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 415
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132a6d056f1fb850800000000000000
+      internalID: 6394864514766611228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 342
+        width: 111
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2870f4ba3c4adc90800000000000000
+      internalID: -7144314043842398162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_58
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 419
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb414f23d88430a30800000000000000
+      internalID: 4180264650412397756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 387
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a2f2650bc339ea0800000000000000
+      internalID: -5867279161475782021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 394
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffde024cd9cc7280800000000000000
+      internalID: -9044132003828539408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 399
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e446a760077f960800000000000000
+      internalID: 7635694866355473936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 367
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023035fdff1718af0800000000000000
+      internalID: -395909948454534368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 367
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a082e3faf38730800000000000000
+      internalID: 4000316819419210693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 386
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7ea8706be645a0800000000000000
+      internalID: -6537279009507607737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 379
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f0b6408dec3640800000000000000
+      internalID: 5061181216455194335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 361
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b3ef0e064165870800000000000000
+      internalID: 8671140538872642417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 354
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a82eb91b314490800000000000000
+      internalID: -7763859300859468274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_68
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dcb5d7489763880800000000000000
+      internalID: -8631578025863164600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 364
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3aba87b09f8fb0800000000000000
+      internalID: -4643333572814816410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_70
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 293
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902851380cc6e8a0800000000000000
+      internalID: -6276104695134543722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 343
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870dd82a986ac3fb0800000000000000
+      internalID: -4666672003794743176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117d1ef3c5d39bd0800000000000000
+      internalID: -2624519120068185837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 306
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504de007fea00100800000000000000
+      internalID: 72249969933631575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 346
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc8ebb5be350330800000000000000
+      internalID: 3676413621080476838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ebb15beed344440800000000000000
+      internalID: 4919124788445429331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 317
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942af5dc7f27d400800000000000000
+      internalID: 348799709356893339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 306
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e28b24f8bfff5950800000000000000
+      internalID: 6440147161998656228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_78
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 175
+        width: 250
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12ccbfc905b96d10800000000000000
+      internalID: 2119424153399116314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132
+        width: 264
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeecd67362e5d7810800000000000000
+      internalID: 1764670147230813934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 135
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2972607e9d4a030800000000000000
+      internalID: 3505165996265018019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_81
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 143
+        width: 235
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce642084a93cf97b0800000000000000
+      internalID: -5215234776071256340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_82
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 10
+        width: 275
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3d589ced843500800000000000000
+      internalID: 375080716286639575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 255
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a6860a4a9dd83e0800000000000000
+      internalID: -2049742954294646184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding
+        Beast_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 14
+        width: 256
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c9deb56db99000800000000000000
+      internalID: 43273916128020055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_0: -2146267304778548045
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_1: -6387800088537581086
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_10: -1918819534658956521
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_11: -1114268189949570280
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_12: 8403091688322603880
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_13: -7781377557665730680
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_14: -6339030031486040779
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_15: -1022910213311118662
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_16: 4008453896625159236
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_17: 3821143056097276042
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_18: -8388886411970930513
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_19: 3338937591403812011
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_2: -3071271875636439214
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_20: -925804655739739487
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_21: 3106754673377878051
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_22: 270170733179531709
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_23: 8739225863933294234
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_24: 2771781391315521478
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_25: 7630409800422531739
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_26: 7827325768807541103
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_27: -2019090861017655315
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_28: -1688810872737411823
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_29: -6294726671186679719
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_3: -1779470090198189971
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_30: 2195164413030169946
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_31: 710513504200990122
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_32: 5423665794512037574
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_33: -8598486047752934971
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_34: 140257517806423587
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_35: -3914893109678878414
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_36: 440717880458097999
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_37: -8243388499010625234
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_38: 2462057485332101714
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_39: -2616614166532243678
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_4: -7122421337472303184
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_40: -1208931902039483833
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_41: -8152636813843786949
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_42: -7642495436234402119
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_43: 51046378250566006
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_44: 2920622414337240222
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_45: 7191110470735561766
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_46: -5220921949463854604
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_47: -8193461694125573547
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_48: 6710029081751819912
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_49: 4877408831273082700
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_5: -3639260506016663838
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_50: -5666154597124943399
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_51: 208594096238009238
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_52: -5612062569441749368
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_53: 4136772957344608139
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_54: -8353962979399317513
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_55: -6168745989801799940
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_56: 6394864514766611228
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_57: -7144314043842398162
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_58: 4180264650412397756
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_59: -5867279161475782021
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_6: -536154597871898312
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_60: -9044132003828539408
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_61: 7635694866355473936
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_62: -395909948454534368
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_63: 4000316819419210693
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_64: -6537279009507607737
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_65: 5061181216455194335
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_66: 8671140538872642417
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_67: -7763859300859468274
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_68: -8631578025863164600
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_69: -4643333572814816410
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_7: -8920298985070962484
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_70: -6276104695134543722
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_71: -4666672003794743176
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_72: -2624519120068185837
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_73: 72249969933631575
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_74: 3676413621080476838
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_75: 4919124788445429331
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_76: 348799709356893339
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_77: 6440147161998656228
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_78: 2119424153399116314
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_79: 1764670147230813934
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_8: -3853313971342810838
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_80: 3505165996265018019
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_81: -5215234776071256340
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_82: 375080716286639575
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_83: -2049742954294646184
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_84: 43273916128020055
+      Mobile - One Piece Treasure Cruise - 2014 - Rob Lucci - Dark Justice-Abiding Beast_9: 306046655986156001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

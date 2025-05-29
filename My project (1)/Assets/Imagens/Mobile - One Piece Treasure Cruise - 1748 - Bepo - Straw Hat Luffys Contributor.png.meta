@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 078dd5f58a7c2114b8f0cbdd2bf12333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3421735172515805282
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_0
+  - first:
+      213: -8831556543238127298
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_1
+  - first:
+      213: 2074773555687125250
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_2
+  - first:
+      213: 5974864975094484275
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_3
+  - first:
+      213: 8759590673119418410
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_4
+  - first:
+      213: 5639876882788786124
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_5
+  - first:
+      213: -25020606649266525
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_6
+  - first:
+      213: 6776441105064771728
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_7
+  - first:
+      213: -4700449287946279325
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_8
+  - first:
+      213: -6698604882321549919
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_9
+  - first:
+      213: 7877205328981745919
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_10
+  - first:
+      213: 6804738879099621278
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_11
+  - first:
+      213: -8608415991987462589
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_12
+  - first:
+      213: 1436056220359082669
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_13
+  - first:
+      213: -5467779442314533413
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_14
+  - first:
+      213: 5964788680350414341
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_15
+  - first:
+      213: -488627239328098767
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_16
+  - first:
+      213: 6903565247953383225
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_17
+  - first:
+      213: 2007851916353193729
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_18
+  - first:
+      213: -1836313993154969531
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_19
+  - first:
+      213: -1189309209645067499
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_20
+  - first:
+      213: 7894463282071532495
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_21
+  - first:
+      213: 7347607335244450016
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_22
+  - first:
+      213: 3422351048104175728
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_23
+  - first:
+      213: -3737656234651213623
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_24
+  - first:
+      213: -9081005343237277246
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_25
+  - first:
+      213: 8707880885236162917
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_26
+  - first:
+      213: 4993616804683572483
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_27
+  - first:
+      213: -2247533632659304646
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_28
+  - first:
+      213: 2659128419100702746
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_29
+  - first:
+      213: -4047489170605954766
+    second: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 824
+        width: 117
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e974cbe5dfd8380d0800000000000000
+      internalID: -3421735172515805282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 824
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c3829d12007580800000000000000
+      internalID: -8831556543238127298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 824
+        width: 115
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201fa186e831bcc10800000000000000
+      internalID: 2074773555687125250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 824
+        width: 118
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0e65e90cfae250800000000000000
+      internalID: 5974864975094484275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 828
+        width: 144
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a289b119e41509970800000000000000
+      internalID: 8759590673119418410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 841
+        width: 133
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf109fb42ed44e40800000000000000
+      internalID: 5639876882788786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 969
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae0b9c04eb17aff0800000000000000
+      internalID: -25020606649266525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 683
+        width: 170
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090cdbc2841ca0e50800000000000000
+      internalID: 6776441105064771728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 683
+        width: 170
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3666933d646a4ceb0800000000000000
+      internalID: -4700449287946279325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 208
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5d68aa956c903a0800000000000000
+      internalID: -6698604882321549919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 413
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff065c0f284715d60800000000000000
+      internalID: 7877205328981745919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 381
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc50e15f94f6e50800000000000000
+      internalID: 6804738879099621278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 349
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e9bceb343c88880800000000000000
+      internalID: -8608415991987462589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 279
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24efb1685ede310800000000000000
+      internalID: 1436056220359082669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 203
+        width: 128
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a8a6119b8e14b0800000000000000
+      internalID: -5467779442314533413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 339
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506be84b3bf27c250800000000000000
+      internalID: 5964788680350414341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 314
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d44c5d1c0839f0800000000000000
+      internalID: -488627239328098767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 329
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2eff24046ecf50800000000000000
+      internalID: 6903565247953383225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 203
+        width: 93
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107c1db0ea25ddb10800000000000000
+      internalID: 2007851916353193729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 215
+        width: 189
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5404be5072a1486e0800000000000000
+      internalID: -1836313993154969531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 277
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51351073399be7fe0800000000000000
+      internalID: -1189309209645067499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 230
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3fc344784ce8d60800000000000000
+      internalID: 7894463282071532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 265
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8cc4e21f1f7f560800000000000000
+      internalID: 7347607335244450016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 207
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0786fe65522ae7f20800000000000000
+      internalID: 3422351048104175728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02711257d212cc0800000000000000
+      internalID: -3737656234651213623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 140
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fae8e0c9c9f180800000000000000
+      internalID: -9081005343237277246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4
+        width: 147
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616aee578b98d870800000000000000
+      internalID: 8707880885236162917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4
+        width: 149
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e59bc604ec4540800000000000000
+      internalID: 4993616804683572483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 147
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f499ca1182fc0e0800000000000000
+      internalID: -2247533632659304646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_29
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 13
+        width: 116
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b4a0653f17e420800000000000000
+      internalID: 2659128419100702746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 13
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239aac93b0e64d7c0800000000000000
+      internalID: -4047489170605954766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_0: -3421735172515805282
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_1: -8831556543238127298
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_10: 7877205328981745919
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_11: 6804738879099621278
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_12: -8608415991987462589
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_13: 1436056220359082669
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_14: -5467779442314533413
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_15: 5964788680350414341
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_16: -488627239328098767
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_17: 6903565247953383225
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_18: 2007851916353193729
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_19: -1836313993154969531
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_2: 2074773555687125250
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_20: -1189309209645067499
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_21: 7894463282071532495
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_22: 7347607335244450016
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_23: 3422351048104175728
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_24: -3737656234651213623
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_25: -9081005343237277246
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_26: 8707880885236162917
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_27: 4993616804683572483
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_28: -2247533632659304646
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_29: 2659128419100702746
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_3: 5974864975094484275
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_30: -4047489170605954766
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_4: 8759590673119418410
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_5: 5639876882788786124
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_6: -25020606649266525
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_7: 6776441105064771728
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_8: -4700449287946279325
+      Mobile - One Piece Treasure Cruise - 1748 - Bepo - Straw Hat Luffys Contributor_9: -6698604882321549919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
